@@ -1,0 +1,72 @@
+[
+  {
+    "source": "hn",
+    "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
+    "points": 200,
+    "comments": 66,
+    "url": "https://www.norirobotics.com/"
+  },
+  {
+    "source": "hn",
+    "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+    "points": 118,
+    "comments": 82,
+    "url": "https://news.ycombinator.com/item?id=49543530"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Reactor Atlas",
+    "points": 68,
+    "comments": 24,
+    "url": "https://reactoratlas.com"
+  },
+  {
+    "source": "hn",
+    "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+    "points": 59,
+    "comments": 49,
+    "url": "https://usealmanac.com/"
+  },
+  {
+    "source": "hn",
+    "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+    "points": 46,
+    "comments": 12,
+    "url": "https://github.com/Hebbian-Robotics/hflow"
+  },
+  {
+    "source": "hn",
+    "title": "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
+    "points": 28,
+    "comments": 8,
+    "url": "https://news.ycombinator.com/item?id=49552616"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: ShevtoneAudio Orchestrator – Turning MIDI into Full Orchestration",
+    "points": 6,
+    "comments": 4,
+    "url": "https://orchestra.shevtoneaudio.com"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: *Another* marketplace for returns, overstock, and second-life inventory",
+    "points": 4,
+    "comments": 0,
+    "url": "https://mintshelf.com/blog/mint-shelf-1-0-launch"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: CleanMyMedia – organize decades of photos, with local face recognition",
+    "points": 3,
+    "comments": 0,
+    "url": "https://cleanmymedia.com"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: PearPie – Private AI chat that syncs peer-to-peer, no accounts needed",
+    "points": 3,
+    "comments": 3,
+    "url": "https://www.pearpie.ai/launch/"
+  }
+]
