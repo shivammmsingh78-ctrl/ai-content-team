@@ -1,0 +1,49 @@
+name: daily-reels
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch: {}
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: unpack zip (first time)
+        run: |
+          if [ ! -f team.js ] && [ -f ai-content-team-desktop.zip ]; then
+            unzip -q -o ai-content-team-desktop.zip
+            cp -r ai-content-team/. .
+            rm -rf ai-content-team
+          fi
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: tools
+        run: |
+          pip install -q edge-tts
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+      - name: team run (5 reels)
+        run: node team.js --count 5
+        env:
+          LLM_KEY: ${{ secrets.LLM_KEY }}
+      - name: web data
+        run: |
+          node tools/make-web.js
+          ls output | grep -v "$(date -u +%F)" | xargs -r -I{} rm -rf "output/{}"
+      - name: commit results
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'reels: daily batch'
+      - name: pages setup
+        uses: actions/configure-pages@v5
+      - name: pages upload
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: web
+      - name: pages deploy
+        uses: actions/deploy-pages@v4
