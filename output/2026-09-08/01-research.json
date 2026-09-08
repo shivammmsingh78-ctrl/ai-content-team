@@ -7,22 +7,10 @@
   ],
   "ideas": [
     {
-      "title": "#02 THE 45-SECOND ARGUMENT",
-      "angle": "COMMENT",
-      "format": "short-video",
-      "score": 10,
-      "fid": 2,
-      "trending": [
-        "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
-        "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-        "Show HN: Reactor Atlas"
-      ]
-    },
-    {
       "title": "#03 THE MYTH KILL",
       "angle": "BOOKMARK",
       "format": "short-video",
-      "score": 9,
+      "score": 10,
       "fid": 3,
       "trending": [
         "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
@@ -34,7 +22,7 @@
       "title": "#04 THE SCALE SHOCK",
       "angle": "SHARE",
       "format": "short-video",
-      "score": 8,
+      "score": 9,
       "fid": 4,
       "trending": [
         "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
@@ -46,7 +34,7 @@
       "title": "#05 THE REVERSE TRANSFORMATION",
       "angle": "HOOK",
       "format": "short-video",
-      "score": 7,
+      "score": 8,
       "fid": 5,
       "trending": [
         "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
@@ -58,7 +46,7 @@
       "title": "#06 THE SEAMLESS LOOP",
       "angle": "WATCH TIME",
       "format": "short-video",
-      "score": 6,
+      "score": 7,
       "fid": 6,
       "trending": [
         "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
@@ -70,8 +58,20 @@
       "title": "#07 THE DEADPAN ABSURD",
       "angle": "SHARE",
       "format": "short-video",
-      "score": 5,
+      "score": 6,
       "fid": 7,
+      "trending": [
+        "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
+        "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+        "Show HN: Reactor Atlas"
+      ]
+    },
+    {
+      "title": "#08 THE COMPLETE PROCESS",
+      "angle": "COMPLETION",
+      "format": "short-video",
+      "score": 5,
+      "fid": 8,
       "trending": [
         "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
         "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
