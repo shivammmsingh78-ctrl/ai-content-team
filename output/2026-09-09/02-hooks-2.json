@@ -3,12 +3,12 @@
     "title": "#05 THE REVERSE TRANSFORMATION",
     "angle": "HOOK",
     "format": "short-video",
-    "score": 8,
+    "score": 9,
     "fid": 5,
     "trending": [
-      "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
-      "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-      "Show HN: Reactor Atlas"
+      "Show HN: Spinifex – 19 releases in, from 3 AWS services to 11",
+      "Show HN: Genotype: language that compiles to idiomatic TS, Rust and Python",
+      "Show HN: Genotype: language that compiles to idiomatic TS, Rust and Python"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Log poochte hain kaise kiya. Theek hai, reverse mein dikhata hoon.",
     "Ye final result hai. Ab main aapko wo dikhaunga jo maine kisi ko nahi dikhaya."
   ],
-  "best": 2,
+  "best": 3,
   "titles": [
     "#05 THE REVERSE TRANSFORMATION"
   ],
-  "thumbnail": "Log poochte hain kaise kiya. Theek hai, reverse "
+  "thumbnail": "Ye final result hai. Ab main aapko wo dikhaunga "
 }

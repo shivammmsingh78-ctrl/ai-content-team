@@ -3,12 +3,12 @@
     "title": "#06 THE SEAMLESS LOOP",
     "angle": "WATCH TIME",
     "format": "short-video",
-    "score": 7,
+    "score": 8,
     "fid": 6,
     "trending": [
-      "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
-      "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-      "Show HN: Reactor Atlas"
+      "Show HN: Spinifex – 19 releases in, from 3 AWS services to 11",
+      "Show HN: Genotype: language that compiles to idiomatic TS, Rust and Python",
+      "Show HN: Genotype: language that compiles to idiomatic TS, Rust and Python"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Kuch girta hua, jo aakhir mein wapas apni jagah aa jaata hai.",
     "Ek transformation jo circular ho — A se B se wapas A."
   ],
-  "best": 2,
+  "best": 3,
   "titles": [
     "#06 THE SEAMLESS LOOP"
   ],
-  "thumbnail": "Kuch girta hua, jo aakhir mein wapas apni jagah "
+  "thumbnail": "Ek transformation jo circular ho — A se B se wap"
 }

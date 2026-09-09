@@ -3,12 +3,12 @@
     "title": "#04 THE SCALE SHOCK",
     "angle": "SHARE",
     "format": "short-video",
-    "score": 9,
+    "score": 10,
     "fid": 4,
     "trending": [
-      "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
-      "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-      "Show HN: Reactor Atlas"
+      "Show HN: Spinifex – 19 releases in, from 3 AWS services to 11",
+      "Show HN: Genotype: language that compiles to idiomatic TS, Rust and Python",
+      "Show HN: Genotype: language that compiles to idiomatic TS, Rust and Python"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Aapke phone mein Apollo 11 se 100,000 guna zyada computing power hai. Aur aap usse reels dekh rahe ho.",
     "Insaan ki poori recorded history Earth ki umar ka 0.000006% hai."
   ],
-  "best": 2,
+  "best": 3,
   "titles": [
     "#04 THE SCALE SHOCK"
   ],
-  "thumbnail": "Aapke phone mein Apollo 11 se 100,000 guna zyada"
+  "thumbnail": "Insaan ki poori recorded history Earth ki umar k"
 }
