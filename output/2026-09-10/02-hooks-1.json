@@ -3,12 +3,12 @@
     "title": "#05 THE REVERSE TRANSFORMATION",
     "angle": "HOOK",
     "format": "short-video",
-    "score": 9,
+    "score": 10,
     "fid": 5,
     "trending": [
-      "Show HN: Spinifex – 19 releases in, from 3 AWS services to 11",
-      "Show HN: Genotype: language that compiles to idiomatic TS, Rust and Python",
-      "Show HN: Genotype: language that compiles to idiomatic TS, Rust and Python"
+      "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+      "Jacob Coxon resignation appears to be a PR stunt for AI regulation",
+      "Trezor's email provider has been breached"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Log poochte hain kaise kiya. Theek hai, reverse mein dikhata hoon.",
     "Ye final result hai. Ab main aapko wo dikhaunga jo maine kisi ko nahi dikhaya."
   ],
-  "best": 3,
+  "best": 0,
   "titles": [
     "#05 THE REVERSE TRANSFORMATION"
   ],
-  "thumbnail": "Ye final result hai. Ab main aapko wo dikhaunga "
+  "thumbnail": "Ye kamra 2 ghante pehle aisa tha. Haan."
 }

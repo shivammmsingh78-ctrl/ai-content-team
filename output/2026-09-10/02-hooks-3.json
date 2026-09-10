@@ -3,12 +3,12 @@
     "title": "#07 THE DEADPAN ABSURD",
     "angle": "SHARE",
     "format": "short-video",
-    "score": 7,
+    "score": 8,
     "fid": 7,
     "trending": [
-      "Show HN: Spinifex – 19 releases in, from 3 AWS services to 11",
-      "Show HN: Genotype: language that compiles to idiomatic TS, Rust and Python",
-      "Show HN: Genotype: language that compiles to idiomatic TS, Rust and Python"
+      "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+      "Jacob Coxon resignation appears to be a PR stunt for AI regulation",
+      "Trezor's email provider has been breached"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Camera react na kare — no zoom, no sound effect.",
     "Characters absurdity ko roz ki baat samjhein."
   ],
-  "best": 3,
+  "best": 0,
   "titles": [
     "#07 THE DEADPAN ABSURD"
   ],
-  "thumbnail": "Characters absurdity ko roz ki baat samjhein."
+  "thumbnail": "Koi verbal hook nahi — visual absurdity hi hook "
 }

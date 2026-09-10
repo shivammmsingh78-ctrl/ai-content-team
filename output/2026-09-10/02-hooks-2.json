@@ -3,12 +3,12 @@
     "title": "#06 THE SEAMLESS LOOP",
     "angle": "WATCH TIME",
     "format": "short-video",
-    "score": 8,
+    "score": 9,
     "fid": 6,
     "trending": [
-      "Show HN: Spinifex – 19 releases in, from 3 AWS services to 11",
-      "Show HN: Genotype: language that compiles to idiomatic TS, Rust and Python",
-      "Show HN: Genotype: language that compiles to idiomatic TS, Rust and Python"
+      "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+      "Jacob Coxon resignation appears to be a PR stunt for AI regulation",
+      "Trezor's email provider has been breached"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Kuch girta hua, jo aakhir mein wapas apni jagah aa jaata hai.",
     "Ek transformation jo circular ho — A se B se wapas A."
   ],
-  "best": 3,
+  "best": 0,
   "titles": [
     "#06 THE SEAMLESS LOOP"
   ],
-  "thumbnail": "Ek transformation jo circular ho — A se B se wap"
+  "thumbnail": "Loop mein hook words nahi hote — visual hi hook "
 }

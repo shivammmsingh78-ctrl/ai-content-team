@@ -1,0 +1,107 @@
+[
+  {
+    "source": "hn",
+    "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+    "points": 39,
+    "comments": 9,
+    "url": "https://github.com/OtoDock/oto-dock"
+  },
+  {
+    "source": "hn",
+    "title": "Jacob Coxon resignation appears to be a PR stunt for AI regulation",
+    "points": 22,
+    "comments": 3,
+    "url": "https://twitter.com/ParkerThayer/status/2097759699626328575"
+  },
+  {
+    "source": "hn",
+    "title": "Trezor's email provider has been breached",
+    "points": 11,
+    "comments": 3,
+    "url": "https://twitter.com/Trezor/status/2097786518110609620"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Hydra – Open-source agentic terminal with a PTY daemon",
+    "points": 8,
+    "comments": 3,
+    "url": "https://github.com/hydraterm/hydra-local"
+  },
+  {
+    "source": "hn",
+    "title": "I rank the open-source AI agents that launched in the last 30 days",
+    "points": 8,
+    "comments": 3,
+    "url": "https://www.theagenticleaderboard.com/"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: A FOSS Expense Splitter",
+    "points": 6,
+    "comments": 3,
+    "url": "https://news.ycombinator.com/item?id=49628052"
+  },
+  {
+    "source": "hn",
+    "title": "Software is about to eat the world much faster",
+    "points": 6,
+    "comments": 0,
+    "url": "https://twitter.com/pmarca/status/2097762851788398971"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: EmbedFlow –> Upgrade embedding models without re-embedding your corpus",
+    "points": 5,
+    "comments": 1,
+    "url": "https://github.com/arnsri33/embedflow"
+  },
+  {
+    "source": "hn",
+    "title": "Ask HN: Do you regret using Social Networking apps?",
+    "points": 5,
+    "comments": 6,
+    "url": "https://news.ycombinator.com/item?id=49629821"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: An open-source SAS interpreter, written by agents",
+    "points": 5,
+    "comments": 2,
+    "url": "https://kirha.com/research/opensas"
+  },
+  {
+    "source": "hn",
+    "title": "Ask HN: Software Licenses that prevent LLMs from training on open source?",
+    "points": 5,
+    "comments": 3,
+    "url": "https://news.ycombinator.com/item?id=49628792"
+  },
+  {
+    "source": "hn",
+    "title": "GPT-6 Astra is better at making money, more ethical than Claude Fable 5.1",
+    "points": 5,
+    "comments": 0,
+    "url": "https://twitter.com/andonlabs/status/2097377692966633952"
+  },
+  {
+    "source": "hn",
+    "title": "Ask HN: What's your AI coding set up?",
+    "points": 4,
+    "comments": 1,
+    "url": "https://news.ycombinator.com/item?id=49636239"
+  },
+  {
+    "source": "hn",
+    "title": "Ask HN: Why did my search engine post get removed?",
+    "points": 4,
+    "comments": 2,
+    "url": "https://news.ycombinator.com/item?id=49632482"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: I'm not a PostgREST fan this is why I'm building an alternative",
+    "points": 4,
+    "comments": 0,
+    "url": "https://github.com/rustrum/xepak"
+  }
+]
