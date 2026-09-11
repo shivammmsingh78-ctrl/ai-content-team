@@ -3,12 +3,12 @@
     "title": "#07 THE DEADPAN ABSURD",
     "angle": "SHARE",
     "format": "short-video",
-    "score": 8,
+    "score": 9,
     "fid": 7,
     "trending": [
-      "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
-      "Jacob Coxon resignation appears to be a PR stunt for AI regulation",
-      "Trezor's email provider has been breached"
+      "Proof of Capture: Apple Reference Image, but open source and using steganography",
+      "Show HN: MultiMatte, a Promptable Image Background Removal Model",
+      "OpenAI pausing new $200 plan subscriptions"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Camera react na kare — no zoom, no sound effect.",
     "Characters absurdity ko roz ki baat samjhein."
   ],
-  "best": 0,
+  "best": 1,
   "titles": [
     "#07 THE DEADPAN ABSURD"
   ],
-  "thumbnail": "Koi verbal hook nahi — visual absurdity hi hook "
+  "thumbnail": "Bilkul normal frame se shuru, phir kuch bilkul g"
 }

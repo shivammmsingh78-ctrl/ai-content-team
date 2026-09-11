@@ -3,12 +3,12 @@
     "title": "#09 THE COMPLETE POV",
     "angle": "IMMERSION",
     "format": "short-video",
-    "score": 6,
+    "score": 7,
     "fid": 9,
     "trending": [
-      "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
-      "Jacob Coxon resignation appears to be a PR stunt for AI regulation",
-      "Trezor's email provider has been breached"
+      "Proof of Capture: Apple Reference Image, but open source and using steganography",
+      "Show HN: MultiMatte, a Promptable Image Background Removal Model",
+      "OpenAI pausing new $200 plan subscriptions"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Camera thoda shake kare — perfect stabilization fake lagta hai.",
     "Reaction sirf sound se — face dikhaya toh POV toot gaya."
   ],
-  "best": 0,
+  "best": 1,
   "titles": [
     "#09 THE COMPLETE POV"
   ],
-  "thumbnail": "Koi setup nahi — seedha moment ke beech mein dro"
+  "thumbnail": "Hands frame mein — hands hi POV establish karti "
 }

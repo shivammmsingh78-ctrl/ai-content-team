@@ -3,12 +3,12 @@
     "title": "#06 THE SEAMLESS LOOP",
     "angle": "WATCH TIME",
     "format": "short-video",
-    "score": 9,
+    "score": 10,
     "fid": 6,
     "trending": [
-      "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
-      "Jacob Coxon resignation appears to be a PR stunt for AI regulation",
-      "Trezor's email provider has been breached"
+      "Proof of Capture: Apple Reference Image, but open source and using steganography",
+      "Show HN: MultiMatte, a Promptable Image Background Removal Model",
+      "OpenAI pausing new $200 plan subscriptions"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Kuch girta hua, jo aakhir mein wapas apni jagah aa jaata hai.",
     "Ek transformation jo circular ho — A se B se wapas A."
   ],
-  "best": 0,
+  "best": 1,
   "titles": [
     "#06 THE SEAMLESS LOOP"
   ],
-  "thumbnail": "Loop mein hook words nahi hote — visual hi hook "
+  "thumbnail": "Ek object mid-motion mein — camera already move "
 }
