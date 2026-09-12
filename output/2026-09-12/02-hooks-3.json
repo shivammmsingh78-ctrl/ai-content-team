@@ -3,12 +3,12 @@
     "title": "#09 THE COMPLETE POV",
     "angle": "IMMERSION",
     "format": "short-video",
-    "score": 7,
+    "score": 8,
     "fid": 9,
     "trending": [
-      "Proof of Capture: Apple Reference Image, but open source and using steganography",
-      "Show HN: MultiMatte, a Promptable Image Background Removal Model",
-      "OpenAI pausing new $200 plan subscriptions"
+      "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+      "Houthis used Anthropic to develop guided weapons"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Camera thoda shake kare — perfect stabilization fake lagta hai.",
     "Reaction sirf sound se — face dikhaya toh POV toot gaya."
   ],
-  "best": 1,
+  "best": 2,
   "titles": [
     "#09 THE COMPLETE POV"
   ],
-  "thumbnail": "Hands frame mein — hands hi POV establish karti "
+  "thumbnail": "Camera thoda shake kare — perfect stabilization "
 }

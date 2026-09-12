@@ -3,12 +3,12 @@
     "title": "#10 THE 40-SECOND FILM",
     "angle": "EMOTIONAL SHARE",
     "format": "short-video",
-    "score": 6,
+    "score": 7,
     "fid": 10,
     "trending": [
-      "Proof of Capture: Apple Reference Image, but open source and using steganography",
-      "Show HN: MultiMatte, a Promptable Image Background Removal Model",
-      "OpenAI pausing new $200 plan subscriptions"
+      "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+      "Houthis used Anthropic to develop guided weapons"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Situation 4 second mein saaf ho jaani chahiye — bina bole.",
     "Aakhri frame pehle frame ka echo ho, par meaning badla hua."
   ],
-  "best": 1,
+  "best": 2,
   "titles": [
     "#10 THE 40-SECOND FILM"
   ],
-  "thumbnail": "Ek khaali kursi. Ek adha likha letter. Ek band d"
+  "thumbnail": "Situation 4 second mein saaf ho jaani chahiye — "
 }

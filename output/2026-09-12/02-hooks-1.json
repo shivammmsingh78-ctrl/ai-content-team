@@ -3,12 +3,12 @@
     "title": "#07 THE DEADPAN ABSURD",
     "angle": "SHARE",
     "format": "short-video",
-    "score": 9,
+    "score": 10,
     "fid": 7,
     "trending": [
-      "Proof of Capture: Apple Reference Image, but open source and using steganography",
-      "Show HN: MultiMatte, a Promptable Image Background Removal Model",
-      "OpenAI pausing new $200 plan subscriptions"
+      "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+      "Houthis used Anthropic to develop guided weapons"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Camera react na kare — no zoom, no sound effect.",
     "Characters absurdity ko roz ki baat samjhein."
   ],
-  "best": 1,
+  "best": 2,
   "titles": [
     "#07 THE DEADPAN ABSURD"
   ],
-  "thumbnail": "Bilkul normal frame se shuru, phir kuch bilkul g"
+  "thumbnail": "Camera react na kare — no zoom, no sound effect."
 }
