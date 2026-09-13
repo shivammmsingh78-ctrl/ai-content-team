@@ -1,0 +1,85 @@
+{
+  "trends": [
+    {
+      "name": "user formats",
+      "why": "boss ke diye proven reel formats"
+    }
+  ],
+  "ideas": [
+    {
+      "title": "#01 THE RECEIPT DROP",
+      "angle": "SAVE",
+      "format": "short-video",
+      "score": 10,
+      "fid": 1,
+      "trending": [
+        "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
+        "Show HN: Open-source simulation testing infra for voice agents",
+        "Show HN: Sparrow-2 – Noise cancellation isn't designed for conversational AI"
+      ]
+    },
+    {
+      "title": "#02 THE 45-SECOND ARGUMENT",
+      "angle": "COMMENT",
+      "format": "short-video",
+      "score": 9,
+      "fid": 2,
+      "trending": [
+        "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
+        "Show HN: Open-source simulation testing infra for voice agents",
+        "Show HN: Sparrow-2 – Noise cancellation isn't designed for conversational AI"
+      ]
+    },
+    {
+      "title": "#03 THE MYTH KILL",
+      "angle": "BOOKMARK",
+      "format": "short-video",
+      "score": 8,
+      "fid": 3,
+      "trending": [
+        "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
+        "Show HN: Open-source simulation testing infra for voice agents",
+        "Show HN: Sparrow-2 – Noise cancellation isn't designed for conversational AI"
+      ]
+    },
+    {
+      "title": "#04 THE SCALE SHOCK",
+      "angle": "SHARE",
+      "format": "short-video",
+      "score": 7,
+      "fid": 4,
+      "trending": [
+        "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
+        "Show HN: Open-source simulation testing infra for voice agents",
+        "Show HN: Sparrow-2 – Noise cancellation isn't designed for conversational AI"
+      ]
+    },
+    {
+      "title": "#05 THE REVERSE TRANSFORMATION",
+      "angle": "HOOK",
+      "format": "short-video",
+      "score": 6,
+      "fid": 5,
+      "trending": [
+        "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
+        "Show HN: Open-source simulation testing infra for voice agents",
+        "Show HN: Sparrow-2 – Noise cancellation isn't designed for conversational AI"
+      ]
+    },
+    {
+      "title": "#06 THE SEAMLESS LOOP",
+      "angle": "WATCH TIME",
+      "format": "short-video",
+      "score": 5,
+      "fid": 6,
+      "trending": [
+        "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
+        "Show HN: Open-source simulation testing infra for voice agents",
+        "Show HN: Sparrow-2 – Noise cancellation isn't designed for conversational AI"
+      ]
+    }
+  ],
+  "niches": [
+    "AI tools for solo creators"
+  ]
+}
