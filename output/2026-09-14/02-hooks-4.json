@@ -3,12 +3,12 @@
     "title": "#05 THE REVERSE TRANSFORMATION",
     "angle": "HOOK",
     "format": "short-video",
-    "score": 6,
+    "score": 7,
     "fid": 5,
     "trending": [
-      "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
       "Show HN: Open-source simulation testing infra for voice agents",
-      "Show HN: Sparrow-2 – Noise cancellation isn't designed for conversational AI"
+      "Show HN: Sparrow-2 – Noise cancellation isn't designed for conversational AI",
+      "Ask HN: How is AI actively a threat to humanity if it's only online?"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Log poochte hain kaise kiya. Theek hai, reverse mein dikhata hoon.",
     "Ye final result hai. Ab main aapko wo dikhaunga jo maine kisi ko nahi dikhaya."
   ],
-  "best": 0,
+  "best": 1,
   "titles": [
     "#05 THE REVERSE TRANSFORMATION"
   ],
-  "thumbnail": "Ye kamra 2 ghante pehle aisa tha. Haan."
+  "thumbnail": "800 rupaye. Poora kharcha. Ab dikhata hoon pehle"
 }

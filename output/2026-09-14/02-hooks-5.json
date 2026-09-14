@@ -1,0 +1,25 @@
+{
+  "idea": {
+    "title": "#06 THE SEAMLESS LOOP",
+    "angle": "WATCH TIME",
+    "format": "short-video",
+    "score": 6,
+    "fid": 6,
+    "trending": [
+      "Show HN: Open-source simulation testing infra for voice agents",
+      "Show HN: Sparrow-2 – Noise cancellation isn't designed for conversational AI",
+      "Ask HN: How is AI actively a threat to humanity if it's only online?"
+    ]
+  },
+  "hooks": [
+    "Loop mein hook words nahi hote — visual hi hook hai.",
+    "Ek object mid-motion mein — camera already move kar raha ho.",
+    "Kuch girta hua, jo aakhir mein wapas apni jagah aa jaata hai.",
+    "Ek transformation jo circular ho — A se B se wapas A."
+  ],
+  "best": 1,
+  "titles": [
+    "#06 THE SEAMLESS LOOP"
+  ],
+  "thumbnail": "Ek object mid-motion mein — camera already move "
+}
