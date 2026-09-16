@@ -1,0 +1,85 @@
+{
+  "trends": [
+    {
+      "name": "user formats",
+      "why": "boss ke diye proven reel formats"
+    }
+  ],
+  "ideas": [
+    {
+      "title": "#04 THE SCALE SHOCK",
+      "angle": "SHARE",
+      "format": "short-video",
+      "score": 10,
+      "fid": 4,
+      "trending": [
+        "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+        "Google copied our open-source code, removed engineers' names without credit",
+        "V1.1 state of open source- OS 4.4 months behind frontier [pdf]"
+      ]
+    },
+    {
+      "title": "#05 THE REVERSE TRANSFORMATION",
+      "angle": "HOOK",
+      "format": "short-video",
+      "score": 9,
+      "fid": 5,
+      "trending": [
+        "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+        "Google copied our open-source code, removed engineers' names without credit",
+        "V1.1 state of open source- OS 4.4 months behind frontier [pdf]"
+      ]
+    },
+    {
+      "title": "#06 THE SEAMLESS LOOP",
+      "angle": "WATCH TIME",
+      "format": "short-video",
+      "score": 8,
+      "fid": 6,
+      "trending": [
+        "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+        "Google copied our open-source code, removed engineers' names without credit",
+        "V1.1 state of open source- OS 4.4 months behind frontier [pdf]"
+      ]
+    },
+    {
+      "title": "#07 THE DEADPAN ABSURD",
+      "angle": "SHARE",
+      "format": "short-video",
+      "score": 7,
+      "fid": 7,
+      "trending": [
+        "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+        "Google copied our open-source code, removed engineers' names without credit",
+        "V1.1 state of open source- OS 4.4 months behind frontier [pdf]"
+      ]
+    },
+    {
+      "title": "#08 THE COMPLETE PROCESS",
+      "angle": "COMPLETION",
+      "format": "short-video",
+      "score": 6,
+      "fid": 8,
+      "trending": [
+        "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+        "Google copied our open-source code, removed engineers' names without credit",
+        "V1.1 state of open source- OS 4.4 months behind frontier [pdf]"
+      ]
+    },
+    {
+      "title": "#09 THE COMPLETE POV",
+      "angle": "IMMERSION",
+      "format": "short-video",
+      "score": 5,
+      "fid": 9,
+      "trending": [
+        "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+        "Google copied our open-source code, removed engineers' names without credit",
+        "V1.1 state of open source- OS 4.4 months behind frontier [pdf]"
+      ]
+    }
+  ],
+  "niches": [
+    "AI tools for solo creators"
+  ]
+}
