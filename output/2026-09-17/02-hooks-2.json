@@ -3,12 +3,12 @@
     "title": "#06 THE SEAMLESS LOOP",
     "angle": "WATCH TIME",
     "format": "short-video",
-    "score": 8,
+    "score": 9,
     "fid": 6,
     "trending": [
-      "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-      "Google copied our open-source code, removed engineers' names without credit",
-      "V1.1 state of open source- OS 4.4 months behind frontier [pdf]"
+      "Vectorized and performance-portable Quicksort (2022)",
+      "Berlin-based Langdock moves its parent company from the US to Germany",
+      "Tell HN: An inside view of Montana's new biotech law"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Kuch girta hua, jo aakhir mein wapas apni jagah aa jaata hai.",
     "Ek transformation jo circular ho — A se B se wapas A."
   ],
-  "best": 3,
+  "best": 0,
   "titles": [
     "#06 THE SEAMLESS LOOP"
   ],
-  "thumbnail": "Ek transformation jo circular ho — A se B se wap"
+  "thumbnail": "Loop mein hook words nahi hote — visual hi hook "
 }

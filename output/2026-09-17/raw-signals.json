@@ -1,0 +1,107 @@
+[
+  {
+    "source": "hn",
+    "title": "Vectorized and performance-portable Quicksort (2022)",
+    "points": 162,
+    "comments": 27,
+    "url": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html"
+  },
+  {
+    "source": "hn",
+    "title": "Berlin-based Langdock moves its parent company from the US to Germany",
+    "points": 49,
+    "comments": 20,
+    "url": "https://www.euronews.com/business/2026/09/16/why-this-fast-growing-german-ai-start-up-is-moving-its-parent-company-from-the-us"
+  },
+  {
+    "source": "hn",
+    "title": "Tell HN: An inside view of Montana's new biotech law",
+    "points": 34,
+    "comments": 15,
+    "url": "https://news.ycombinator.com/item?id=49731216"
+  },
+  {
+    "source": "hn",
+    "title": "Maintainer rejected AI contributions, we forked it and added video acceleration",
+    "points": 16,
+    "comments": 6,
+    "url": "https://twitter.com/SiliconForested/status/2100247223368024109"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Halo 3's Guardian, playable in the browser, as my personal website",
+    "points": 12,
+    "comments": 5,
+    "url": "https://runboli.com"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Halo 3's Guardian, playable in the browser, as my personal website",
+    "points": 12,
+    "comments": 5,
+    "url": "https://runboli.com"
+  },
+  {
+    "source": "hn",
+    "title": "Ask HN: Google has suspended our business profile",
+    "points": 8,
+    "comments": 2,
+    "url": "https://news.ycombinator.com/item?id=49730532"
+  },
+  {
+    "source": "hn",
+    "title": "Common Crawl Data Stored on a Hugging Face Bucket",
+    "points": 8,
+    "comments": 0,
+    "url": "https://commoncrawl.org/blog/getting-started-with-common-crawl-data-on-hugging-face"
+  },
+  {
+    "source": "hn",
+    "title": "Barndoor acquires Diaphora, creators of open-source workflow runtime Frags",
+    "points": 7,
+    "comments": 3,
+    "url": "https://barndoor.ai/barndoor-acquires-diaphora/"
+  },
+  {
+    "source": "hn",
+    "title": "Ask HN: People unemployed for >2 years, how do you spend your time?",
+    "points": 5,
+    "comments": 3,
+    "url": "https://news.ycombinator.com/item?id=49732853"
+  },
+  {
+    "source": "hn",
+    "title": "Ask HN: People unemployed for >2 years, how do you spend your time?",
+    "points": 5,
+    "comments": 3,
+    "url": "https://news.ycombinator.com/item?id=49732853"
+  },
+  {
+    "source": "hn",
+    "title": "Freeriding and Rebellion: An Investigation of Open Source Vendor Relicensing",
+    "points": 4,
+    "comments": 0,
+    "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/isj.70060"
+  },
+  {
+    "source": "hn",
+    "title": "Apple's M6, M7 and M8 Chips Show How AI Is Reshaping the Company",
+    "points": 4,
+    "comments": 0,
+    "url": "https://twitter.com/markgurman/status/2100252758859489391"
+  },
+  {
+    "source": "hn",
+    "title": "I Found One Interesting Open Source GitHub Gem",
+    "points": 3,
+    "comments": 0,
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "source": "hn",
+    "title": "Vector Search in open-source MySQL",
+    "points": 3,
+    "comments": 1,
+    "url": "https://villagesql.com/blog/vector-search-hnsw/"
+  }
+]
