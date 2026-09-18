@@ -3,12 +3,12 @@
     "title": "#09 THE COMPLETE POV",
     "angle": "IMMERSION",
     "format": "short-video",
-    "score": 6,
+    "score": 7,
     "fid": 9,
     "trending": [
-      "Vectorized and performance-portable Quicksort (2022)",
-      "Berlin-based Langdock moves its parent company from the US to Germany",
-      "Tell HN: An inside view of Montana's new biotech law"
+      "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+      "Eric S. Raymond – This is the case against AI Doom – pass it on",
+      "The FAA's plan to fix air traffic? $875M worth of AI"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Camera thoda shake kare — perfect stabilization fake lagta hai.",
     "Reaction sirf sound se — face dikhaya toh POV toot gaya."
   ],
-  "best": 0,
+  "best": 1,
   "titles": [
     "#09 THE COMPLETE POV"
   ],
-  "thumbnail": "Koi setup nahi — seedha moment ke beech mein dro"
+  "thumbnail": "Hands frame mein — hands hi POV establish karti "
 }

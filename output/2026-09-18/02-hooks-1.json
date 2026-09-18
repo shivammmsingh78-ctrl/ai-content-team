@@ -3,12 +3,12 @@
     "title": "#06 THE SEAMLESS LOOP",
     "angle": "WATCH TIME",
     "format": "short-video",
-    "score": 9,
+    "score": 10,
     "fid": 6,
     "trending": [
-      "Vectorized and performance-portable Quicksort (2022)",
-      "Berlin-based Langdock moves its parent company from the US to Germany",
-      "Tell HN: An inside view of Montana's new biotech law"
+      "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+      "Eric S. Raymond – This is the case against AI Doom – pass it on",
+      "The FAA's plan to fix air traffic? $875M worth of AI"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Kuch girta hua, jo aakhir mein wapas apni jagah aa jaata hai.",
     "Ek transformation jo circular ho — A se B se wapas A."
   ],
-  "best": 0,
+  "best": 1,
   "titles": [
     "#06 THE SEAMLESS LOOP"
   ],
-  "thumbnail": "Loop mein hook words nahi hote — visual hi hook "
+  "thumbnail": "Ek object mid-motion mein — camera already move "
 }
