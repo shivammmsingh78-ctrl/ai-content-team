@@ -3,12 +3,12 @@
     "title": "#10 THE 40-SECOND FILM",
     "angle": "EMOTIONAL SHARE",
     "format": "short-video",
-    "score": 6,
+    "score": 7,
     "fid": 10,
     "trending": [
-      "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
-      "Eric S. Raymond – This is the case against AI Doom – pass it on",
-      "The FAA's plan to fix air traffic? $875M worth of AI"
+      "Hooli billboard off of 101",
+      "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+      "Show HN: Agentgit – a Git host for AI agents, no account, no token, no key"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Situation 4 second mein saaf ho jaani chahiye — bina bole.",
     "Aakhri frame pehle frame ka echo ho, par meaning badla hua."
   ],
-  "best": 1,
+  "best": 2,
   "titles": [
     "#10 THE 40-SECOND FILM"
   ],
-  "thumbnail": "Ek khaali kursi. Ek adha likha letter. Ek band d"
+  "thumbnail": "Situation 4 second mein saaf ho jaani chahiye — "
 }
