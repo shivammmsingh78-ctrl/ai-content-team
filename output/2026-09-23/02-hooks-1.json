@@ -3,12 +3,12 @@
     "title": "#01 THE RECEIPT DROP",
     "angle": "SAVE",
     "format": "short-video",
-    "score": 6,
+    "score": 10,
     "fid": 1,
     "trending": [
-      "Claude Status – Elevated errors for multiple models",
-      "People Hooked on Vapes Try a New Way to Quit: Cigarettes",
-      "I think it's time to hang up my Three.js hat"
+      "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+      "Show HN: InstinctFlash – High-Performance Serving Runtime for Robotics Models",
+      "Show HN: MCPJam - the first testing & evaluations platform for MCP servers"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Main aapko wo dikhata hoon jo koi course bechne wala nahi dikhata — apna asli data.",
     "Isme se 3 cheezein kaam aayi. Baaki 11 waste thi. Dono dikha raha hoon."
   ],
-  "best": 2,
+  "best": 0,
   "titles": [
     "#01 THE RECEIPT DROP"
   ],
-  "thumbnail": "Main aapko wo dikhata hoon jo koi course bechne "
+  "thumbnail": "Ye mera bank statement hai. Ab main aapko batata"
 }
