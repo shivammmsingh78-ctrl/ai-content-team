@@ -1,0 +1,85 @@
+{
+  "trends": [
+    {
+      "name": "user formats",
+      "why": "boss ke diye proven reel formats"
+    }
+  ],
+  "ideas": [
+    {
+      "title": "#03 THE MYTH KILL",
+      "angle": "BOOKMARK",
+      "format": "short-video",
+      "score": 10,
+      "fid": 3,
+      "trending": [
+        "Show HN: Koi.rest – watch some fish and regain your balance",
+        "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+        "Show HN: InstinctFlash – High-Performance Serving Runtime for Robotics Models"
+      ]
+    },
+    {
+      "title": "#04 THE SCALE SHOCK",
+      "angle": "SHARE",
+      "format": "short-video",
+      "score": 9,
+      "fid": 4,
+      "trending": [
+        "Show HN: Koi.rest – watch some fish and regain your balance",
+        "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+        "Show HN: InstinctFlash – High-Performance Serving Runtime for Robotics Models"
+      ]
+    },
+    {
+      "title": "#05 THE REVERSE TRANSFORMATION",
+      "angle": "HOOK",
+      "format": "short-video",
+      "score": 8,
+      "fid": 5,
+      "trending": [
+        "Show HN: Koi.rest – watch some fish and regain your balance",
+        "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+        "Show HN: InstinctFlash – High-Performance Serving Runtime for Robotics Models"
+      ]
+    },
+    {
+      "title": "#06 THE SEAMLESS LOOP",
+      "angle": "WATCH TIME",
+      "format": "short-video",
+      "score": 7,
+      "fid": 6,
+      "trending": [
+        "Show HN: Koi.rest – watch some fish and regain your balance",
+        "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+        "Show HN: InstinctFlash – High-Performance Serving Runtime for Robotics Models"
+      ]
+    },
+    {
+      "title": "#07 THE DEADPAN ABSURD",
+      "angle": "SHARE",
+      "format": "short-video",
+      "score": 6,
+      "fid": 7,
+      "trending": [
+        "Show HN: Koi.rest – watch some fish and regain your balance",
+        "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+        "Show HN: InstinctFlash – High-Performance Serving Runtime for Robotics Models"
+      ]
+    },
+    {
+      "title": "#08 THE COMPLETE PROCESS",
+      "angle": "COMPLETION",
+      "format": "short-video",
+      "score": 5,
+      "fid": 8,
+      "trending": [
+        "Show HN: Koi.rest – watch some fish and regain your balance",
+        "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+        "Show HN: InstinctFlash – High-Performance Serving Runtime for Robotics Models"
+      ]
+    }
+  ],
+  "niches": [
+    "AI tools for solo creators"
+  ]
+}
