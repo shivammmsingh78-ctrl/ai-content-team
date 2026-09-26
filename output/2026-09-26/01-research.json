@@ -1,0 +1,85 @@
+{
+  "trends": [
+    {
+      "name": "user formats",
+      "why": "boss ke diye proven reel formats"
+    }
+  ],
+  "ideas": [
+    {
+      "title": "#04 THE SCALE SHOCK",
+      "angle": "SHARE",
+      "format": "short-video",
+      "score": 10,
+      "fid": 4,
+      "trending": [
+        "Ollaya – Ollama for open-source, Jev-style decision models",
+        "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+        "Show HN: Doom or Bloom, map your AI worldview"
+      ]
+    },
+    {
+      "title": "#05 THE REVERSE TRANSFORMATION",
+      "angle": "HOOK",
+      "format": "short-video",
+      "score": 9,
+      "fid": 5,
+      "trending": [
+        "Ollaya – Ollama for open-source, Jev-style decision models",
+        "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+        "Show HN: Doom or Bloom, map your AI worldview"
+      ]
+    },
+    {
+      "title": "#06 THE SEAMLESS LOOP",
+      "angle": "WATCH TIME",
+      "format": "short-video",
+      "score": 8,
+      "fid": 6,
+      "trending": [
+        "Ollaya – Ollama for open-source, Jev-style decision models",
+        "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+        "Show HN: Doom or Bloom, map your AI worldview"
+      ]
+    },
+    {
+      "title": "#07 THE DEADPAN ABSURD",
+      "angle": "SHARE",
+      "format": "short-video",
+      "score": 7,
+      "fid": 7,
+      "trending": [
+        "Ollaya – Ollama for open-source, Jev-style decision models",
+        "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+        "Show HN: Doom or Bloom, map your AI worldview"
+      ]
+    },
+    {
+      "title": "#08 THE COMPLETE PROCESS",
+      "angle": "COMPLETION",
+      "format": "short-video",
+      "score": 6,
+      "fid": 8,
+      "trending": [
+        "Ollaya – Ollama for open-source, Jev-style decision models",
+        "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+        "Show HN: Doom or Bloom, map your AI worldview"
+      ]
+    },
+    {
+      "title": "#09 THE COMPLETE POV",
+      "angle": "IMMERSION",
+      "format": "short-video",
+      "score": 5,
+      "fid": 9,
+      "trending": [
+        "Ollaya – Ollama for open-source, Jev-style decision models",
+        "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+        "Show HN: Doom or Bloom, map your AI worldview"
+      ]
+    }
+  ],
+  "niches": [
+    "AI tools for solo creators"
+  ]
+}

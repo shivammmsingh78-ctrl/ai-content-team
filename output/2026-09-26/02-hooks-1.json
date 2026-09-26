@@ -3,12 +3,12 @@
     "title": "#04 THE SCALE SHOCK",
     "angle": "SHARE",
     "format": "short-video",
-    "score": 9,
+    "score": 10,
     "fid": 4,
     "trending": [
-      "Show HN: Koi.rest – watch some fish and regain your balance",
-      "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
-      "Show HN: InstinctFlash – High-Performance Serving Runtime for Robotics Models"
+      "Ollaya – Ollama for open-source, Jev-style decision models",
+      "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+      "Show HN: Doom or Bloom, map your AI worldview"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Aapke phone mein Apollo 11 se 100,000 guna zyada computing power hai. Aur aap usse reels dekh rahe ho.",
     "Insaan ki poori recorded history Earth ki umar ka 0.000006% hai."
   ],
-  "best": 2,
+  "best": 3,
   "titles": [
     "#04 THE SCALE SHOCK"
   ],
-  "thumbnail": "Aapke phone mein Apollo 11 se 100,000 guna zyada"
+  "thumbnail": "Insaan ki poori recorded history Earth ki umar k"
 }

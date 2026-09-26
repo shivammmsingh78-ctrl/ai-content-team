@@ -3,12 +3,12 @@
     "title": "#06 THE SEAMLESS LOOP",
     "angle": "WATCH TIME",
     "format": "short-video",
-    "score": 7,
+    "score": 8,
     "fid": 6,
     "trending": [
-      "Show HN: Koi.rest – watch some fish and regain your balance",
-      "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
-      "Show HN: InstinctFlash – High-Performance Serving Runtime for Robotics Models"
+      "Ollaya – Ollama for open-source, Jev-style decision models",
+      "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+      "Show HN: Doom or Bloom, map your AI worldview"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Kuch girta hua, jo aakhir mein wapas apni jagah aa jaata hai.",
     "Ek transformation jo circular ho — A se B se wapas A."
   ],
-  "best": 2,
+  "best": 3,
   "titles": [
     "#06 THE SEAMLESS LOOP"
   ],
-  "thumbnail": "Kuch girta hua, jo aakhir mein wapas apni jagah "
+  "thumbnail": "Ek transformation jo circular ho — A se B se wap"
 }
