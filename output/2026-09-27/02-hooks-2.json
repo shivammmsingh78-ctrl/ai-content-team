@@ -3,12 +3,12 @@
     "title": "#07 THE DEADPAN ABSURD",
     "angle": "SHARE",
     "format": "short-video",
-    "score": 7,
+    "score": 9,
     "fid": 7,
     "trending": [
-      "Ollaya – Ollama for open-source, Jev-style decision models",
-      "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
-      "Show HN: Doom or Bloom, map your AI worldview"
+      "\"can't a guy walk down the street anymore without being harassed by AI\" [video]",
+      "Primeagen Joining Omarchy Core",
+      "Show HN: Blender Copilot"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Camera react na kare — no zoom, no sound effect.",
     "Characters absurdity ko roz ki baat samjhein."
   ],
-  "best": 3,
+  "best": 1,
   "titles": [
     "#07 THE DEADPAN ABSURD"
   ],
-  "thumbnail": "Characters absurdity ko roz ki baat samjhein."
+  "thumbnail": "Bilkul normal frame se shuru, phir kuch bilkul g"
 }

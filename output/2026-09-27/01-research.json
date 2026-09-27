@@ -1,0 +1,85 @@
+{
+  "trends": [
+    {
+      "name": "user formats",
+      "why": "boss ke diye proven reel formats"
+    }
+  ],
+  "ideas": [
+    {
+      "title": "#06 THE SEAMLESS LOOP",
+      "angle": "WATCH TIME",
+      "format": "short-video",
+      "score": 10,
+      "fid": 6,
+      "trending": [
+        "\"can't a guy walk down the street anymore without being harassed by AI\" [video]",
+        "Primeagen Joining Omarchy Core",
+        "Show HN: Blender Copilot"
+      ]
+    },
+    {
+      "title": "#07 THE DEADPAN ABSURD",
+      "angle": "SHARE",
+      "format": "short-video",
+      "score": 9,
+      "fid": 7,
+      "trending": [
+        "\"can't a guy walk down the street anymore without being harassed by AI\" [video]",
+        "Primeagen Joining Omarchy Core",
+        "Show HN: Blender Copilot"
+      ]
+    },
+    {
+      "title": "#08 THE COMPLETE PROCESS",
+      "angle": "COMPLETION",
+      "format": "short-video",
+      "score": 8,
+      "fid": 8,
+      "trending": [
+        "\"can't a guy walk down the street anymore without being harassed by AI\" [video]",
+        "Primeagen Joining Omarchy Core",
+        "Show HN: Blender Copilot"
+      ]
+    },
+    {
+      "title": "#09 THE COMPLETE POV",
+      "angle": "IMMERSION",
+      "format": "short-video",
+      "score": 7,
+      "fid": 9,
+      "trending": [
+        "\"can't a guy walk down the street anymore without being harassed by AI\" [video]",
+        "Primeagen Joining Omarchy Core",
+        "Show HN: Blender Copilot"
+      ]
+    },
+    {
+      "title": "#10 THE 40-SECOND FILM",
+      "angle": "EMOTIONAL SHARE",
+      "format": "short-video",
+      "score": 6,
+      "fid": 10,
+      "trending": [
+        "\"can't a guy walk down the street anymore without being harassed by AI\" [video]",
+        "Primeagen Joining Omarchy Core",
+        "Show HN: Blender Copilot"
+      ]
+    },
+    {
+      "title": "#01 THE RECEIPT DROP",
+      "angle": "SAVE",
+      "format": "short-video",
+      "score": 5,
+      "fid": 1,
+      "trending": [
+        "\"can't a guy walk down the street anymore without being harassed by AI\" [video]",
+        "Primeagen Joining Omarchy Core",
+        "Show HN: Blender Copilot"
+      ]
+    }
+  ],
+  "niches": [
+    "AI tools for solo creators"
+  ]
+}
