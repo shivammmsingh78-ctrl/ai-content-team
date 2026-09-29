@@ -1,0 +1,72 @@
+[
+  {
+    "source": "hn",
+    "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+    "points": 152,
+    "comments": 87,
+    "url": "https://hn.watch/"
+  },
+  {
+    "source": "hn",
+    "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+    "points": 54,
+    "comments": 32,
+    "url": "https://www.coveragecat.com/"
+  },
+  {
+    "source": "hn",
+    "title": "Launch HN: Vespper (YC F24) – SOTA Docx MCP",
+    "points": 34,
+    "comments": 10,
+    "url": "https://www.vespper.com/blog/launching-vespper-docx-mcp"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Radix – Visual UI for agentic programming",
+    "points": 15,
+    "comments": 18,
+    "url": "https://radix-os.com"
+  },
+  {
+    "source": "hn",
+    "title": "AI risk is not sentience by computers, it is negligence by humans",
+    "points": 9,
+    "comments": 1,
+    "url": "https://www.seattletimes.com/opinion/wa-needs-to-do-these-3-things-to-protect-us-from-ai-harm/"
+  },
+  {
+    "source": "hn",
+    "title": "Anthropic warns AI may pose 'existential risks to humanity' in IPO filing",
+    "points": 3,
+    "comments": 2,
+    "url": "https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Jev Decision Layer: Save Frontier Tokens on Closed Decisions",
+    "points": 3,
+    "comments": 0,
+    "url": "https://github.com/qualixar/jev-decision-layer"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Flo State, a fast, minimalist, native Markdown editor for macOS",
+    "points": 3,
+    "comments": 0,
+    "url": "https://flocrivello.com/flostate/"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: ParkourNote – A research workspace, built solo in a month with Claude",
+    "points": 3,
+    "comments": 0,
+    "url": "https://note.parkourlabs.io/"
+  },
+  {
+    "source": "hn",
+    "title": "Ask HN: What do people do with Android phones once security updates end?",
+    "points": 3,
+    "comments": 7,
+    "url": "https://news.ycombinator.com/item?id=49809929"
+  }
+]

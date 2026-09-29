@@ -3,12 +3,12 @@
     "title": "#01 THE RECEIPT DROP",
     "angle": "SAVE",
     "format": "short-video",
-    "score": 6,
+    "score": 10,
     "fid": 1,
     "trending": [
-      "Thinking Fast and Slow in AI: the Role of Metacognition (2021)",
-      "Microsoft drops Copilot+ branding from its new laptops",
-      "George Hotz’s opinion on AI coding"
+      "Show HN: HN.watch – Videos of all Hacker News posts",
+      "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+      "Launch HN: Vespper (YC F24) – SOTA Docx MCP"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Main aapko wo dikhata hoon jo koi course bechne wala nahi dikhata — apna asli data.",
     "Isme se 3 cheezein kaam aayi. Baaki 11 waste thi. Dono dikha raha hoon."
   ],
-  "best": 2,
+  "best": 0,
   "titles": [
     "#01 THE RECEIPT DROP"
   ],
-  "thumbnail": "Main aapko wo dikhata hoon jo koi course bechne "
+  "thumbnail": "Ye mera bank statement hai. Ab main aapko batata"
 }
