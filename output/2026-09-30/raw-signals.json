@@ -2,8 +2,8 @@
   {
     "source": "hn",
     "title": "Show HN: HN.watch – Videos of all Hacker News posts",
-    "points": 152,
-    "comments": 87,
+    "points": 209,
+    "comments": 97,
     "url": "https://hn.watch/"
   },
   {
@@ -16,8 +16,8 @@
   {
     "source": "hn",
     "title": "Launch HN: Vespper (YC F24) – SOTA Docx MCP",
-    "points": 34,
-    "comments": 10,
+    "points": 36,
+    "comments": 17,
     "url": "https://www.vespper.com/blog/launching-vespper-docx-mcp"
   },
   {
@@ -29,24 +29,10 @@
   },
   {
     "source": "hn",
-    "title": "AI risk is not sentience by computers, it is negligence by humans",
-    "points": 9,
-    "comments": 1,
-    "url": "https://www.seattletimes.com/opinion/wa-needs-to-do-these-3-things-to-protect-us-from-ai-harm/"
-  },
-  {
-    "source": "hn",
-    "title": "Anthropic warns AI may pose 'existential risks to humanity' in IPO filing",
-    "points": 3,
-    "comments": 2,
-    "url": "https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html"
-  },
-  {
-    "source": "hn",
-    "title": "Show HN: Jev Decision Layer: Save Frontier Tokens on Closed Decisions",
+    "title": "Show HN: Momentum Mouse – slide your phone on a desk and the PC cursor follows",
     "points": 3,
     "comments": 0,
-    "url": "https://github.com/qualixar/jev-decision-layer"
+    "url": "https://www.indiegogo.com/projects/momentum-mouse/momentum-mouse-go?refcode=kH0RTo2_MUm4wpY6MALV9Q"
   },
   {
     "source": "hn",
@@ -68,5 +54,12 @@
     "points": 3,
     "comments": 7,
     "url": "https://news.ycombinator.com/item?id=49809929"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Momentum Mouse – slide your phone on a desk and the PC cursor follows",
+    "points": 3,
+    "comments": 0,
+    "url": "https://www.indiegogo.com/projects/momentum-mouse/momentum-mouse-go?refcode=kH0RTo2_MUm4wpY6MALV9Q"
   }
 ]
