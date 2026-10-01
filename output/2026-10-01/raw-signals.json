@@ -1,0 +1,72 @@
+[
+  {
+    "source": "hn",
+    "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+    "points": 215,
+    "comments": 97,
+    "url": "https://hn.watch/"
+  },
+  {
+    "source": "hn",
+    "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+    "points": 145,
+    "comments": 72,
+    "url": "https://github.com/magnitudedev/magnitude"
+  },
+  {
+    "source": "hn",
+    "title": "Launch HN: Vespper (YC F24) – SOTA Docx MCP",
+    "points": 36,
+    "comments": 18,
+    "url": "https://www.vespper.com/blog/launching-vespper-docx-mcp"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
+    "points": 22,
+    "comments": 12,
+    "url": "https://github.com/TantrixAuto/yantra"
+  },
+  {
+    "source": "hn",
+    "title": "AI borrowers face tough sell in risky corners of US credit market",
+    "points": 6,
+    "comments": 1,
+    "url": "https://www.reuters.com/legal/transactional/ai-borrowers-face-tough-sell-risky-corners-us-credit-market-2026-09-30/"
+  },
+  {
+    "source": "hn",
+    "title": "Thoughts on AI",
+    "points": 3,
+    "comments": 1,
+    "url": "https://medium.com/@dhillonravi1983/thoughts-on-ai-1e1400f9fe4f"
+  },
+  {
+    "source": "hn",
+    "title": "Google Grapples with Employee Skepticism About New Gemini Model",
+    "points": 3,
+    "comments": 0,
+    "url": "https://finance.yahoo.com/technology/ai/articles/google-grapples-employee-skepticism-gemini-195242680.html"
+  },
+  {
+    "source": "hn",
+    "title": "Ask HN: If AI took your job tomorrow, what is your plan?",
+    "points": 3,
+    "comments": 4,
+    "url": "https://news.ycombinator.com/item?id=49917455"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Flo State, a fast, minimalist, native Markdown editor for macOS",
+    "points": 3,
+    "comments": 0,
+    "url": "https://flocrivello.com/flostate/"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: ParkourNote – A research workspace, built solo in a month with Claude",
+    "points": 3,
+    "comments": 0,
+    "url": "https://note.parkourlabs.io/"
+  }
+]
