@@ -1,0 +1,25 @@
+{
+  "idea": {
+    "title": "#06 THE SEAMLESS LOOP",
+    "angle": "WATCH TIME",
+    "format": "short-video",
+    "score": 6,
+    "fid": 6,
+    "trending": [
+      "Show HN: HN.watch – Videos of all Hacker News posts",
+      "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+      "Launch HN: Vespper (YC F24) – SOTA Docx MCP"
+    ]
+  },
+  "hooks": [
+    "Loop mein hook words nahi hote — visual hi hook hai.",
+    "Ek object mid-motion mein — camera already move kar raha ho.",
+    "Kuch girta hua, jo aakhir mein wapas apni jagah aa jaata hai.",
+    "Ek transformation jo circular ho — A se B se wapas A."
+  ],
+  "best": 1,
+  "titles": [
+    "#06 THE SEAMLESS LOOP"
+  ],
+  "thumbnail": "Ek object mid-motion mein — camera already move "
+}

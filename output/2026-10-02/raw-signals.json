@@ -1,0 +1,51 @@
+[
+  {
+    "source": "hn",
+    "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+    "points": 219,
+    "comments": 97,
+    "url": "https://hn.watch/"
+  },
+  {
+    "source": "hn",
+    "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+    "points": 191,
+    "comments": 96,
+    "url": "https://github.com/magnitudedev/magnitude"
+  },
+  {
+    "source": "hn",
+    "title": "Launch HN: Vespper (YC F24) – SOTA Docx MCP",
+    "points": 36,
+    "comments": 17,
+    "url": "https://www.vespper.com/blog/launching-vespper-docx-mcp"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Use all Codex Plugins inside Pi",
+    "points": 4,
+    "comments": 0,
+    "url": "https://github.com/wileai/pi-codex-connectors"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Use all Codex Plugins inside Pi",
+    "points": 4,
+    "comments": 0,
+    "url": "https://github.com/wileai/pi-codex-connectors"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Pyxel – A Python retro game engine with built-in art and sound editors",
+    "points": 3,
+    "comments": 2,
+    "url": "https://github.com/kitao/pyxel"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Flo State, a fast, minimalist, native Markdown editor for macOS",
+    "points": 3,
+    "comments": 0,
+    "url": "https://flocrivello.com/flostate/"
+  }
+]
