@@ -1,0 +1,93 @@
+[
+  {
+    "source": "hn",
+    "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+    "points": 221,
+    "comments": 97,
+    "url": "https://hn.watch/"
+  },
+  {
+    "source": "hn",
+    "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+    "points": 194,
+    "comments": 97,
+    "url": "https://github.com/magnitudedev/magnitude"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Pyxel – A Python retro game engine with built-in art and sound editors",
+    "points": 80,
+    "comments": 8,
+    "url": "https://github.com/kitao/pyxel"
+  },
+  {
+    "source": "hn",
+    "title": "Launch HN: Vespper (YC F24) – SOTA Docx MCP",
+    "points": 36,
+    "comments": 17,
+    "url": "https://www.vespper.com/blog/launching-vespper-docx-mcp"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Google Maps Scraper MCP",
+    "points": 9,
+    "comments": 5,
+    "url": "https://gmapscrawl.com/google-maps-scraper-mcp"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Google Maps Scraper MCP",
+    "points": 9,
+    "comments": 5,
+    "url": "https://gmapscrawl.com/google-maps-scraper-mcp"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Television – an open source GUI for your agent harness",
+    "points": 6,
+    "comments": 1,
+    "url": "https://television.run/"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Television – an open source GUI for your agent harness",
+    "points": 6,
+    "comments": 1,
+    "url": "https://television.run/"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Timeline of the Far Future",
+    "points": 5,
+    "comments": 0,
+    "url": "https://rivendell.dmitrybrant.com/farfuture/"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Timeline of the Far Future",
+    "points": 5,
+    "comments": 0,
+    "url": "https://rivendell.dmitrybrant.com/farfuture/"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: 80s Choplifter game ported to Vision Pro as an agent eval (WIP)",
+    "points": 3,
+    "comments": 0,
+    "url": "https://www.bounds.dev/posts/rescue82-making-a-choplifter-style-game-for-apple-vision-pro/"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Flo State, a fast, minimalist, native Markdown editor for macOS",
+    "points": 3,
+    "comments": 0,
+    "url": "https://flocrivello.com/flostate/"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: 80s Choplifter game ported to Vision Pro as an agent eval (WIP)",
+    "points": 3,
+    "comments": 0,
+    "url": "https://www.bounds.dev/posts/rescue82-making-a-choplifter-style-game-for-apple-vision-pro/"
+  }
+]

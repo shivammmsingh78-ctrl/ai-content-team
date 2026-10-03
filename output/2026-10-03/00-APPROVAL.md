@@ -1,16 +1,16 @@
-# Morning check — 2026-10-02 · your only job: verify & approve
+# Morning check — 2026-10-03 · your only job: verify & approve
 
 **Manager:** Output approved for review. One post, fully packaged.
-**Plan:** 5 reels across instagram, x, linkedin, youtube-shorts · first 09:35, last 21:47
+**Plan:** 5 reels across instagram, x, linkedin, youtube-shorts · first 09:24, last 21:35
 **Status:** 7/7 employees reported. Awaiting your approval.
 
-## 1. [instagram @ 09:35] #02 THE 45-SECOND ARGUMENT
+## 1. [instagram @ 09:24] #02 THE 45-SECOND ARGUMENT
 - Reel: reel-01.mp4 · Aapka niche problem nahi hai. Aapki awaaz boring hai. Koi ye nahi bolega isliye main bol raha hoon.
 
 Log disagree karne par type karte hain — comment algorithm ko bolta hai ye disc
 - #reels #creator #growth #contentstrategy #viral #hooks #storytelling #aitools
 
-## 2. [x @ 13:09] #03 THE MYTH KILL
+## 2. [x @ 13:08] #03 THE MYTH KILL
 - Reel: reel-02.mp4 · Sab kehte hain niche pakdo. Maine 3 saal niche pakda aur wahi meri sabse badi galti thi.
 
 Myth todna chhota dopamine hit hai — log ise bhejte hain taaki wo smart lagein.
@@ -18,7 +18,7 @@ Myth todna chhota dopamine hit hai — log ise bhejte hain taaki wo smart lagein
 #reels #c
 - #reels #creator #growth #contentstrategy #viral #hooks #storytelling #aitools
 
-## 3. [linkedin @ 17:46] #04 THE SCALE SHOCK
+## 3. [linkedin @ 17:25] #04 THE SCALE SHOCK
 - Reel: reel-03.mp4 · Agar aap har second ek rupaya gino, ek crore ginne mein 115 din lagenge.
 
 Bade number ko time ya distance mein convert karo — shock reflex share karwata hai.
@@ -26,7 +26,7 @@ Bade number ko time ya distance mein convert karo — shock reflex share karwata
 #reels #creator #grow
 - #reels #creator #growth #contentstrategy #viral
 
-## 4. [youtube-shorts @ 19:20] #05 THE REVERSE TRANSFORMATION
+## 4. [youtube-shorts @ 19:45] #05 THE REVERSE TRANSFORMATION
 - Reel: reel-04.mp4 · 800 rupaye. Poora kharcha. Ab dikhata hoon pehle kya tha.
 
 After pehle dikhao — curiosity gap khulta hai: ye kaise hua.
@@ -34,7 +34,7 @@ After pehle dikhao — curiosity gap khulta hai: ye kaise hua.
 #reels #creator #growth #contentstrategy #viral #hooks
 - #reels #creator #growth #contentstrategy #viral #hooks #storytelling #aitools
 
-## 5. [instagram @ 21:47] #06 THE SEAMLESS LOOP
+## 5. [instagram @ 21:35] #06 THE SEAMLESS LOOP
 - Reel: reel-05.mp4 · Ek object mid-motion mein — camera already move kar raha ho.
 
 Viewer ko pata hi nahi chalta ki video repeat hua — retention 400%.
