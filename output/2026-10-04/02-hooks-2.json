@@ -3,12 +3,12 @@
     "title": "#05 THE REVERSE TRANSFORMATION",
     "angle": "HOOK",
     "format": "short-video",
-    "score": 7,
+    "score": 9,
     "fid": 5,
     "trending": [
-      "Show HN: HN.watch – Videos of all Hacker News posts",
-      "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-      "Show HN: Pyxel – A Python retro game engine with built-in art and sound editors"
+      "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
+      "Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code",
+      "Ask HN: Favorite TV Show?"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Log poochte hain kaise kiya. Theek hai, reverse mein dikhata hoon.",
     "Ye final result hai. Ab main aapko wo dikhaunga jo maine kisi ko nahi dikhaya."
   ],
-  "best": 1,
+  "best": 3,
   "titles": [
     "#05 THE REVERSE TRANSFORMATION"
   ],
-  "thumbnail": "800 rupaye. Poora kharcha. Ab dikhata hoon pehle"
+  "thumbnail": "Ye final result hai. Ab main aapko wo dikhaunga "
 }

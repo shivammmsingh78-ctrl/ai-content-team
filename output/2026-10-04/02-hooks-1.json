@@ -3,12 +3,12 @@
     "title": "#04 THE SCALE SHOCK",
     "angle": "SHARE",
     "format": "short-video",
-    "score": 8,
+    "score": 10,
     "fid": 4,
     "trending": [
-      "Show HN: HN.watch – Videos of all Hacker News posts",
-      "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-      "Show HN: Pyxel – A Python retro game engine with built-in art and sound editors"
+      "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
+      "Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code",
+      "Ask HN: Favorite TV Show?"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Aapke phone mein Apollo 11 se 100,000 guna zyada computing power hai. Aur aap usse reels dekh rahe ho.",
     "Insaan ki poori recorded history Earth ki umar ka 0.000006% hai."
   ],
-  "best": 1,
+  "best": 3,
   "titles": [
     "#04 THE SCALE SHOCK"
   ],
-  "thumbnail": "Agar aap har second ek rupaya gino, ek crore gin"
+  "thumbnail": "Insaan ki poori recorded history Earth ki umar k"
 }

@@ -3,12 +3,12 @@
     "title": "#06 THE SEAMLESS LOOP",
     "angle": "WATCH TIME",
     "format": "short-video",
-    "score": 6,
+    "score": 8,
     "fid": 6,
     "trending": [
-      "Show HN: HN.watch – Videos of all Hacker News posts",
-      "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-      "Show HN: Pyxel – A Python retro game engine with built-in art and sound editors"
+      "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
+      "Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code",
+      "Ask HN: Favorite TV Show?"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Kuch girta hua, jo aakhir mein wapas apni jagah aa jaata hai.",
     "Ek transformation jo circular ho — A se B se wapas A."
   ],
-  "best": 1,
+  "best": 3,
   "titles": [
     "#06 THE SEAMLESS LOOP"
   ],
-  "thumbnail": "Ek object mid-motion mein — camera already move "
+  "thumbnail": "Ek transformation jo circular ho — A se B se wap"
 }
