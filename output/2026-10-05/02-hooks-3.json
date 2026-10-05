@@ -3,12 +3,12 @@
     "title": "#07 THE DEADPAN ABSURD",
     "angle": "SHARE",
     "format": "short-video",
-    "score": 7,
+    "score": 8,
     "fid": 7,
     "trending": [
-      "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
-      "Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code",
-      "Ask HN: Favorite TV Show?"
+      "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
+      "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
+      "Kagi Ends Orion Browser Development for Linux, Will Open-Source It"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Camera react na kare — no zoom, no sound effect.",
     "Characters absurdity ko roz ki baat samjhein."
   ],
-  "best": 3,
+  "best": 0,
   "titles": [
     "#07 THE DEADPAN ABSURD"
   ],
-  "thumbnail": "Characters absurdity ko roz ki baat samjhein."
+  "thumbnail": "Koi verbal hook nahi — visual absurdity hi hook "
 }
