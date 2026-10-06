@@ -3,12 +3,12 @@
     "title": "#09 THE COMPLETE POV",
     "angle": "IMMERSION",
     "format": "short-video",
-    "score": 6,
+    "score": 8,
     "fid": 9,
     "trending": [
-      "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
-      "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-      "Kagi Ends Orion Browser Development for Linux, Will Open-Source It"
+      "The AI boom is making the cheapest smartphones disappear",
+      "The End of Software Secrecy",
+      "GTA 5 Ported to WASM"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Camera thoda shake kare — perfect stabilization fake lagta hai.",
     "Reaction sirf sound se — face dikhaya toh POV toot gaya."
   ],
-  "best": 0,
+  "best": 2,
   "titles": [
     "#09 THE COMPLETE POV"
   ],
-  "thumbnail": "Koi setup nahi — seedha moment ke beech mein dro"
+  "thumbnail": "Camera thoda shake kare — perfect stabilization "
 }

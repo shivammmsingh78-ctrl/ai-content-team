@@ -1,0 +1,65 @@
+[
+  {
+    "source": "hn",
+    "title": "The AI boom is making the cheapest smartphones disappear",
+    "points": 13,
+    "comments": 3,
+    "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/"
+  },
+  {
+    "source": "hn",
+    "title": "The End of Software Secrecy",
+    "points": 11,
+    "comments": 8,
+    "url": "https://twitter.com/esrtweet/status/2106983467141509385"
+  },
+  {
+    "source": "hn",
+    "title": "GTA 5 Ported to WASM",
+    "points": 5,
+    "comments": 0,
+    "url": "https://twitter.com/4k_isn/status/2107314678347239665"
+  },
+  {
+    "source": "hn",
+    "title": "Jev vs. Clef",
+    "points": 4,
+    "comments": 1,
+    "url": "https://twitter.com/sztwiorok/status/2107356946844070190"
+  },
+  {
+    "source": "hn",
+    "title": "The AI Buildout Has Turned into a Doom Loop",
+    "points": 4,
+    "comments": 1,
+    "url": "https://bird.makeup/users/gnoble79/statuses/2107068301004210338"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: The mainbrella effect – AI code / Agent machines",
+    "points": 4,
+    "comments": 1,
+    "url": "https://news.ycombinator.com/item?id=49971503"
+  },
+  {
+    "source": "hn",
+    "title": "Our minds aren't equipped to handle AI",
+    "points": 3,
+    "comments": 1,
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Capbase – Free and Open Source Crunchbase Pitchbook Alternative",
+    "points": 3,
+    "comments": 2,
+    "url": "https://capbase.fyi"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Moching – AI desktop agent with 219 built-in tools (Rust)",
+    "points": 3,
+    "comments": 2,
+    "url": "https://github.com/moching-ai-dev/moching"
+  }
+]
