@@ -1,0 +1,100 @@
+[
+  {
+    "source": "hn",
+    "title": "Google EmbeddingGemma 2",
+    "points": 11,
+    "comments": 1,
+    "url": "https://twitter.com/googlegemma/status/2107502533992464482"
+  },
+  {
+    "source": "hn",
+    "title": "We Asked Starbucks Why Their 'Sugar-Free' Drinks Have Sugar",
+    "points": 10,
+    "comments": 2,
+    "url": "https://gizmodo.com/we-asked-starbucks-why-their-sugar-free-drinks-have-sugar-and-now-were-just-more-confused-2000822422"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+    "points": 10,
+    "comments": 0,
+    "url": "https://github.com/nano-muse/nanoMuse"
+  },
+  {
+    "source": "hn",
+    "title": "A Terminal Protocol for Program Status (OSC 7501)",
+    "points": 9,
+    "comments": 1,
+    "url": "https://mitchellh.com/writing/program-status-osc7501"
+  },
+  {
+    "source": "hn",
+    "title": "One Minnesotan's longshot plan to take down the company behind Flock cameras",
+    "points": 4,
+    "comments": 0,
+    "url": "https://www.startribune.com/amid-flock-backlash-one-minnesotans-longshot-plan-to-take-down-the-company/601895854"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Musql, JIT-compiled SQL, up to 300x faster than SQLite, 1000x vs. Turso",
+    "points": 4,
+    "comments": 2,
+    "url": "https://github.com/samyfodil/musql"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU",
+    "points": 4,
+    "comments": 1,
+    "url": "https://github.com/ymcrcat/rgpu"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: ImgKit – 62 image tools that run in the browser",
+    "points": 4,
+    "comments": 0,
+    "url": "https://imgkit.xyz"
+  },
+  {
+    "source": "hn",
+    "title": "Building Git infrastructure for agent-scale development",
+    "points": 3,
+    "comments": 0,
+    "url": "https://twitter.com/github/status/2107589127051063771"
+  },
+  {
+    "source": "hn",
+    "title": "The Unmillenium Problems",
+    "points": 3,
+    "comments": 0,
+    "url": "https://twitter.com/noemititarenco/status/2107603669969412160"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: StatLite – Lightweight dashboard for application monitoring",
+    "points": 3,
+    "comments": 4,
+    "url": "https://pvrlabs.xyz/statlite/"
+  },
+  {
+    "source": "hn",
+    "title": "The things I wanted to make",
+    "points": 3,
+    "comments": 1,
+    "url": "https://christophermeiklejohn.com/ai/personal/phish/software/2026/10/02/the-things-i-wanted-to-make.html"
+  },
+  {
+    "source": "hn",
+    "title": "Mistral Large 4 Preview: Intelligence, Performance and Price Analysis",
+    "points": 3,
+    "comments": 0,
+    "url": "https://artificialanalysis.ai/models/mistral-large-4"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Git extension for controlling Git worktree mess",
+    "points": 3,
+    "comments": 0,
+    "url": "https://getzit.org/"
+  }
+]
