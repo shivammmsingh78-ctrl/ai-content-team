@@ -1,0 +1,72 @@
+[
+  {
+    "source": "hn",
+    "title": "Show HN: Pyxel – A Python retro game engine with built-in art and sound editors",
+    "points": 105,
+    "comments": 9,
+    "url": "https://github.com/kitao/pyxel"
+  },
+  {
+    "source": "hn",
+    "title": "Ask HN: My Apple ID is locked for a week, Apple is a single point of failure",
+    "points": 15,
+    "comments": 5,
+    "url": "https://news.ycombinator.com/item?id=49976972"
+  },
+  {
+    "source": "hn",
+    "title": "AI Crawler Index",
+    "points": 6,
+    "comments": 1,
+    "url": "https://mojodojo.io/ai-crawler-index"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Pacer – will your AI coding subscription last until the reset?",
+    "points": 6,
+    "comments": 3,
+    "url": "https://github.com/dkremsa/claude-pacer"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: StayLeet – keeping skills sharp in AI coding era",
+    "points": 5,
+    "comments": 0,
+    "url": "https://stayleet.com/"
+  },
+  {
+    "source": "hn",
+    "title": "Researcher Gets $300 from OpenAI for Major AI Security Flaw",
+    "points": 4,
+    "comments": 0,
+    "url": "https://x.com/i/trending/2107776361859293195"
+  },
+  {
+    "source": "hn",
+    "title": "Mathematics Is Not Real",
+    "points": 4,
+    "comments": 2,
+    "url": "https://news.ycombinator.com/item?id=50001871"
+  },
+  {
+    "source": "hn",
+    "title": "Will AI kill us all",
+    "points": 3,
+    "comments": 1,
+    "url": "https://virev.ai/blog/will-ai-kill-us-all"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: agentc: <1mb static/no-libc, minimal, embeddable agent with Rust/C API",
+    "points": 3,
+    "comments": 0,
+    "url": "https://github.com/abird-ai/agentc"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Chelis, a tensor language agents can write and prove",
+    "points": 3,
+    "comments": 0,
+    "url": "https://github.com/Chelis-Lang/chelis"
+  }
+]
