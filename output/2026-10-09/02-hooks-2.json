@@ -3,12 +3,12 @@
     "title": "#04 THE SCALE SHOCK",
     "angle": "SHARE",
     "format": "short-video",
-    "score": 7,
+    "score": 9,
     "fid": 4,
     "trending": [
-      "Show HN: Pyxel – A Python retro game engine with built-in art and sound editors",
-      "Ask HN: My Apple ID is locked for a week, Apple is a single point of failure",
-      "AI Crawler Index"
+      "Show HN: Quake ported to safe Rust, playable in browser",
+      "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
+      "Ask HN: My Apple ID is locked for a week, Apple is a single point of failure"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Aapke phone mein Apollo 11 se 100,000 guna zyada computing power hai. Aur aap usse reels dekh rahe ho.",
     "Insaan ki poori recorded history Earth ki umar ka 0.000006% hai."
   ],
-  "best": 0,
+  "best": 2,
   "titles": [
     "#04 THE SCALE SHOCK"
   ],
-  "thumbnail": "1 million second = 11 din. 1 billion second = 31"
+  "thumbnail": "Aapke phone mein Apollo 11 se 100,000 guna zyada"
 }

@@ -3,12 +3,12 @@
     "title": "#03 THE MYTH KILL",
     "angle": "BOOKMARK",
     "format": "short-video",
-    "score": 8,
+    "score": 10,
     "fid": 3,
     "trending": [
-      "Show HN: Pyxel – A Python retro game engine with built-in art and sound editors",
-      "Ask HN: My Apple ID is locked for a week, Apple is a single point of failure",
-      "AI Crawler Index"
+      "Show HN: Quake ported to safe Rust, playable in browser",
+      "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
+      "Ask HN: My Apple ID is locked for a week, Apple is a single point of failure"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "8 glass paani. Kahan se aaya ye number? Kisi ne check hi nahi kiya.",
     "Multitasking exist hi nahi karti. Ye scientifically proven hai aur phir bhi har JD mein likha hota hai."
   ],
-  "best": 0,
+  "best": 2,
   "titles": [
     "#03 THE MYTH KILL"
   ],
-  "thumbnail": "Subah 5 baje utho — ye advice aapke liye nahi ha"
+  "thumbnail": "8 glass paani. Kahan se aaya ye number? Kisi ne "
 }
