@@ -3,12 +3,12 @@
     "title": "#06 THE SEAMLESS LOOP",
     "angle": "WATCH TIME",
     "format": "short-video",
-    "score": 7,
+    "score": 8,
     "fid": 6,
     "trending": [
-      "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
-      "Ask HN: My Apple ID is locked for a week, Apple is a single point of failure",
-      "Ask HN: What if no AIpocalypse, no AI bubble, what if it just keeps advancing?"
+      "Show HN: WallHop – 12ft.io is gone, so I built a replacement",
+      "Show HN: WallHop – 12ft.io is gone, so I built a replacement",
+      "Ask HN: Why aren't Americans rising up against tipping?"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Kuch girta hua, jo aakhir mein wapas apni jagah aa jaata hai.",
     "Ek transformation jo circular ho — A se B se wapas A."
   ],
-  "best": 2,
+  "best": 3,
   "titles": [
     "#06 THE SEAMLESS LOOP"
   ],
-  "thumbnail": "Kuch girta hua, jo aakhir mein wapas apni jagah "
+  "thumbnail": "Ek transformation jo circular ho — A se B se wap"
 }
