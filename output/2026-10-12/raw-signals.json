@@ -1,0 +1,107 @@
+[
+  {
+    "source": "hn",
+    "title": "3rd Yandex Cloud Data Center Was Hit",
+    "points": 573,
+    "comments": 698,
+    "url": "https://status.yandex.cloud/en/incidents/2136"
+  },
+  {
+    "source": "hn",
+    "title": "The gap in shared understanding of LLM capability is widening",
+    "points": 402,
+    "comments": 560,
+    "url": "https://twitter.com/karpathy/status/2109361546505966046"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: WallHop – 12ft.io is gone, so I built a replacement",
+    "points": 273,
+    "comments": 121,
+    "url": "https://wallhop.io/"
+  },
+  {
+    "source": "hn",
+    "title": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+    "points": 93,
+    "comments": 84,
+    "url": "https://github.com/storytold/wordcraft"
+  },
+  {
+    "source": "hn",
+    "title": "Doory – Open-Source Canva",
+    "points": 80,
+    "comments": 18,
+    "url": "https://github.com/shaongitbd/doory"
+  },
+  {
+    "source": "hn",
+    "title": "HashiCorp archives the Boundary open source repo",
+    "points": 66,
+    "comments": 12,
+    "url": "https://github.com/hashicorp/boundary"
+  },
+  {
+    "source": "hn",
+    "title": "Ask HN: Do you want a router that has DD-WRT pre-installed?",
+    "points": 49,
+    "comments": 51,
+    "url": "https://news.ycombinator.com/item?id=50039291"
+  },
+  {
+    "source": "hn",
+    "title": "AI agents in a stand-up call",
+    "points": 47,
+    "comments": 50,
+    "url": "https://atoll92.github.io/agent-standup/"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",
+    "points": 25,
+    "comments": 2,
+    "url": "https://github.com/swimmingbrain/brainotes"
+  },
+  {
+    "source": "hn",
+    "title": "Karpathy on Learning",
+    "points": 19,
+    "comments": 6,
+    "url": "https://twitter.com/karpathy/status/1756380066580455557"
+  },
+  {
+    "source": "hn",
+    "title": "Things that don't bother me as your manager",
+    "points": 18,
+    "comments": 2,
+    "url": "https://twitter.com/EmmaBostian/status/2107555593531588648"
+  },
+  {
+    "source": "hn",
+    "title": "The Apollo 11 Code Is Open Source (and it's hilarious) [video]",
+    "points": 13,
+    "comments": 2,
+    "url": "https://www.youtube.com/watch?v=ACAd_w3D-io"
+  },
+  {
+    "source": "hn",
+    "title": "All startups need is distribution",
+    "points": 9,
+    "comments": 4,
+    "url": "https://news.ycombinator.com/item?id=50039114"
+  },
+  {
+    "source": "hn",
+    "title": "I made an open-source Boom 3D clone. Wanna check it out?",
+    "points": 8,
+    "comments": 1,
+    "url": "https://github.com/JVGS1111/open-boom"
+  },
+  {
+    "source": "hn",
+    "title": "Open Source RUM (Real User Monitoring)",
+    "points": 7,
+    "comments": 0,
+    "url": "https://www.basicrum.com/"
+  }
+]

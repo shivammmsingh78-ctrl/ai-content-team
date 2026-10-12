@@ -3,12 +3,12 @@
     "title": "#07 THE DEADPAN ABSURD",
     "angle": "SHARE",
     "format": "short-video",
-    "score": 7,
+    "score": 8,
     "fid": 7,
     "trending": [
-      "Show HN: WallHop – 12ft.io is gone, so I built a replacement",
-      "Show HN: WallHop – 12ft.io is gone, so I built a replacement",
-      "Ask HN: Why aren't Americans rising up against tipping?"
+      "3rd Yandex Cloud Data Center Was Hit",
+      "The gap in shared understanding of LLM capability is widening",
+      "Show HN: WallHop – 12ft.io is gone, so I built a replacement"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Camera react na kare — no zoom, no sound effect.",
     "Characters absurdity ko roz ki baat samjhein."
   ],
-  "best": 3,
+  "best": 0,
   "titles": [
     "#07 THE DEADPAN ABSURD"
   ],
-  "thumbnail": "Characters absurdity ko roz ki baat samjhein."
+  "thumbnail": "Koi verbal hook nahi — visual absurdity hi hook "
 }
