@@ -3,12 +3,12 @@
     "title": "#07 THE DEADPAN ABSURD",
     "angle": "SHARE",
     "format": "short-video",
-    "score": 10,
+    "score": 9,
     "fid": 7,
     "trending": [
-      "Threat of AI share crash puts world financial stability at risk, says IMF",
-      "Japan declares a \"state of emergency in cyberspace\" as cyberattacks surge",
-      "Character.ai files for bankruptcy, agrees to sell some assets for $20M"
+      "OpenAI engineer arrested in bugging of executive conference room",
+      "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "Dutch tax authorities cancel Microsoft 365 cloud rollout and turn to open source"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Camera react na kare — no zoom, no sound effect.",
     "Characters absurdity ko roz ki baat samjhein."
   ],
-  "best": 2,
+  "best": 1,
   "titles": [
     "#07 THE DEADPAN ABSURD"
   ],
-  "thumbnail": "Camera react na kare — no zoom, no sound effect."
+  "thumbnail": "Bilkul normal frame se shuru, phir kuch bilkul g"
 }

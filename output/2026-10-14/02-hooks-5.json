@@ -3,12 +3,12 @@
     "title": "#10 THE 40-SECOND FILM",
     "angle": "EMOTIONAL SHARE",
     "format": "short-video",
-    "score": 7,
+    "score": 6,
     "fid": 10,
     "trending": [
-      "Threat of AI share crash puts world financial stability at risk, says IMF",
-      "Japan declares a \"state of emergency in cyberspace\" as cyberattacks surge",
-      "Character.ai files for bankruptcy, agrees to sell some assets for $20M"
+      "OpenAI engineer arrested in bugging of executive conference room",
+      "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "Dutch tax authorities cancel Microsoft 365 cloud rollout and turn to open source"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Situation 4 second mein saaf ho jaani chahiye — bina bole.",
     "Aakhri frame pehle frame ka echo ho, par meaning badla hua."
   ],
-  "best": 2,
+  "best": 1,
   "titles": [
     "#10 THE 40-SECOND FILM"
   ],
-  "thumbnail": "Situation 4 second mein saaf ho jaani chahiye — "
+  "thumbnail": "Ek khaali kursi. Ek adha likha letter. Ek band d"
 }
