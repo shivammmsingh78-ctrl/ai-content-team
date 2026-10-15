@@ -3,12 +3,12 @@
     "title": "#07 THE DEADPAN ABSURD",
     "angle": "SHARE",
     "format": "short-video",
-    "score": 9,
+    "score": 10,
     "fid": 7,
     "trending": [
-      "OpenAI engineer arrested in bugging of executive conference room",
-      "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-      "Dutch tax authorities cancel Microsoft 365 cloud rollout and turn to open source"
+      "Banks are now trying to offload the AI data center debt they just underwrote",
+      "Asia chip stocks fall, AI funding worries",
+      "Show HN: My Terminal Themes Web App"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Camera react na kare — no zoom, no sound effect.",
     "Characters absurdity ko roz ki baat samjhein."
   ],
-  "best": 1,
+  "best": 2,
   "titles": [
     "#07 THE DEADPAN ABSURD"
   ],
-  "thumbnail": "Bilkul normal frame se shuru, phir kuch bilkul g"
+  "thumbnail": "Camera react na kare — no zoom, no sound effect."
 }
