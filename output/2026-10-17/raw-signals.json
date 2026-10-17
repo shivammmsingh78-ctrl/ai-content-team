@@ -1,0 +1,65 @@
+[
+  {
+    "source": "hn",
+    "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+    "points": 162,
+    "comments": 127,
+    "url": "https://news.ycombinator.com/item?id=50059096"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
+    "points": 91,
+    "comments": 19,
+    "url": "https://github.com/LargeModGames/spotatui"
+  },
+  {
+    "source": "hn",
+    "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
+    "points": 36,
+    "comments": 20,
+    "url": "https://news.ycombinator.com/item?id=50073471"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Online Piano – Play a Free Virtual Piano Keyboard",
+    "points": 4,
+    "comments": 0,
+    "url": "https://urpiano.com/"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Launch Videos Gallery – A free collection of startup launch videos",
+    "points": 4,
+    "comments": 0,
+    "url": "https://launchvideos.gallery/"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Online Piano – Play a Free Virtual Piano Keyboard",
+    "points": 4,
+    "comments": 0,
+    "url": "https://urpiano.com/"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Tensor Golf – Practise PyTorch Through Short Drills",
+    "points": 3,
+    "comments": 0,
+    "url": "https://tensor.golf"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Hatoba, an open-source SSH client with an AI assistant and E2EE sync",
+    "points": 3,
+    "comments": 0,
+    "url": "https://github.com/scarletkc/Hatoba"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Tensor Golf – Practise PyTorch Through Short Drills",
+    "points": 3,
+    "comments": 0,
+    "url": "https://tensor.golf"
+  }
+]
