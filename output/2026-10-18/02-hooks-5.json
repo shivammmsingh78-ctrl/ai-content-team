@@ -1,0 +1,25 @@
+{
+  "idea": {
+    "title": "#07 THE DEADPAN ABSURD",
+    "angle": "SHARE",
+    "format": "short-video",
+    "score": 6,
+    "fid": 7,
+    "trending": [
+      "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+      "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
+      "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data"
+    ]
+  },
+  "hooks": [
+    "Koi verbal hook nahi — visual absurdity hi hook hai.",
+    "Bilkul normal frame se shuru, phir kuch bilkul galat.",
+    "Camera react na kare — no zoom, no sound effect.",
+    "Characters absurdity ko roz ki baat samjhein."
+  ],
+  "best": 2,
+  "titles": [
+    "#07 THE DEADPAN ABSURD"
+  ],
+  "thumbnail": "Camera react na kare — no zoom, no sound effect."
+}
