@@ -3,12 +3,12 @@
     "title": "#06 THE SEAMLESS LOOP",
     "angle": "WATCH TIME",
     "format": "short-video",
-    "score": 7,
+    "score": 8,
     "fid": 6,
     "trending": [
-      "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-      "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
-      "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data"
+      "Show HN: WhatsApp MCP running free on Cloudflare",
+      "Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
+      "Ask HN: A plea to help me help my father"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Kuch girta hua, jo aakhir mein wapas apni jagah aa jaata hai.",
     "Ek transformation jo circular ho — A se B se wapas A."
   ],
-  "best": 2,
+  "best": 3,
   "titles": [
     "#06 THE SEAMLESS LOOP"
   ],
-  "thumbnail": "Kuch girta hua, jo aakhir mein wapas apni jagah "
+  "thumbnail": "Ek transformation jo circular ho — A se B se wap"
 }

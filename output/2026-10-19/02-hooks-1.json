@@ -3,12 +3,12 @@
     "title": "#04 THE SCALE SHOCK",
     "angle": "SHARE",
     "format": "short-video",
-    "score": 9,
+    "score": 10,
     "fid": 4,
     "trending": [
-      "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-      "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
-      "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data"
+      "Show HN: WhatsApp MCP running free on Cloudflare",
+      "Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
+      "Ask HN: A plea to help me help my father"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Aapke phone mein Apollo 11 se 100,000 guna zyada computing power hai. Aur aap usse reels dekh rahe ho.",
     "Insaan ki poori recorded history Earth ki umar ka 0.000006% hai."
   ],
-  "best": 2,
+  "best": 3,
   "titles": [
     "#04 THE SCALE SHOCK"
   ],
-  "thumbnail": "Aapke phone mein Apollo 11 se 100,000 guna zyada"
+  "thumbnail": "Insaan ki poori recorded history Earth ki umar k"
 }
