@@ -3,12 +3,12 @@
     "title": "#08 THE COMPLETE PROCESS",
     "angle": "COMPLETION",
     "format": "short-video",
-    "score": 6,
+    "score": 7,
     "fid": 8,
     "trending": [
-      "Show HN: WhatsApp MCP running free on Cloudflare",
-      "Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
-      "Ask HN: A plea to help me help my father"
+      "Show HN: RoadRash ported to Three.js to run in the browser",
+      "Hetzner object storage outage since last 10 days in HEL data center",
+      "Ask HN: Dark mode for HN please? (2026)"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Crisp original sound — ye ASMR layer hai.",
     "Ek continuous shot, koi cut nahi."
   ],
-  "best": 3,
+  "best": 0,
   "titles": [
     "#08 THE COMPLETE PROCESS"
   ],
-  "thumbnail": "Ek continuous shot, koi cut nahi."
+  "thumbnail": "1 second final result flash, phir wapas start — "
 }

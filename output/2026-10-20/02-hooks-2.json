@@ -3,12 +3,12 @@
     "title": "#06 THE SEAMLESS LOOP",
     "angle": "WATCH TIME",
     "format": "short-video",
-    "score": 8,
+    "score": 9,
     "fid": 6,
     "trending": [
-      "Show HN: WhatsApp MCP running free on Cloudflare",
-      "Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
-      "Ask HN: A plea to help me help my father"
+      "Show HN: RoadRash ported to Three.js to run in the browser",
+      "Hetzner object storage outage since last 10 days in HEL data center",
+      "Ask HN: Dark mode for HN please? (2026)"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Kuch girta hua, jo aakhir mein wapas apni jagah aa jaata hai.",
     "Ek transformation jo circular ho — A se B se wapas A."
   ],
-  "best": 3,
+  "best": 0,
   "titles": [
     "#06 THE SEAMLESS LOOP"
   ],
-  "thumbnail": "Ek transformation jo circular ho — A se B se wap"
+  "thumbnail": "Loop mein hook words nahi hote — visual hi hook "
 }
