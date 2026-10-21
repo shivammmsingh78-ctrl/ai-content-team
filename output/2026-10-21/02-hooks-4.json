@@ -3,12 +3,12 @@
     "title": "#09 THE COMPLETE POV",
     "angle": "IMMERSION",
     "format": "short-video",
-    "score": 6,
+    "score": 7,
     "fid": 9,
     "trending": [
-      "Show HN: RoadRash ported to Three.js to run in the browser",
-      "Hetzner object storage outage since last 10 days in HEL data center",
-      "Ask HN: Dark mode for HN please? (2026)"
+      "Anthropic recorded a staggering $80B net loss in the first half of 2026",
+      "Xbox CTO teases Halo 3 in WebAssembly",
+      "Show HN: Gauge CLI – Open-Source Hillclimbing for Agent Experience"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Camera thoda shake kare — perfect stabilization fake lagta hai.",
     "Reaction sirf sound se — face dikhaya toh POV toot gaya."
   ],
-  "best": 0,
+  "best": 1,
   "titles": [
     "#09 THE COMPLETE POV"
   ],
-  "thumbnail": "Koi setup nahi — seedha moment ke beech mein dro"
+  "thumbnail": "Hands frame mein — hands hi POV establish karti "
 }

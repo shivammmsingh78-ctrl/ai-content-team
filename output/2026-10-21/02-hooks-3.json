@@ -3,12 +3,12 @@
     "title": "#08 THE COMPLETE PROCESS",
     "angle": "COMPLETION",
     "format": "short-video",
-    "score": 7,
+    "score": 8,
     "fid": 8,
     "trending": [
-      "Show HN: RoadRash ported to Three.js to run in the browser",
-      "Hetzner object storage outage since last 10 days in HEL data center",
-      "Ask HN: Dark mode for HN please? (2026)"
+      "Anthropic recorded a staggering $80B net loss in the first half of 2026",
+      "Xbox CTO teases Halo 3 in WebAssembly",
+      "Show HN: Gauge CLI – Open-Source Hillclimbing for Agent Experience"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Crisp original sound — ye ASMR layer hai.",
     "Ek continuous shot, koi cut nahi."
   ],
-  "best": 0,
+  "best": 1,
   "titles": [
     "#08 THE COMPLETE PROCESS"
   ],
-  "thumbnail": "1 second final result flash, phir wapas start — "
+  "thumbnail": "Pehla decisive action, hands in frame, macro sho"
 }

@@ -1,0 +1,86 @@
+[
+  {
+    "source": "hn",
+    "title": "Anthropic recorded a staggering $80B net loss in the first half of 2026",
+    "points": 31,
+    "comments": 17,
+    "url": "https://twitter.com/Polymarket/status/2112634886070919426"
+  },
+  {
+    "source": "hn",
+    "title": "Xbox CTO teases Halo 3 in WebAssembly",
+    "points": 8,
+    "comments": 2,
+    "url": "https://twitter.com/scottvanvliet/status/2112671760131010982"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Gauge CLI – Open-Source Hillclimbing for Agent Experience",
+    "points": 5,
+    "comments": 0,
+    "url": "https://github.com/gauge-sh/gauge-cli"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: One click flight booking in Claude",
+    "points": 5,
+    "comments": 2,
+    "url": "https://mcp.bonbook.co/claude-setup"
+  },
+  {
+    "source": "hn",
+    "title": "US Air Force pilots used malware-laden USB drives to plan Afghanistan missions",
+    "points": 5,
+    "comments": 0,
+    "url": "https://www.theregister.com/security/2026/10/15/us-air-force-pilots-used-malware-laden-usb-drives-to-plan-afghanistan-missions/5303156"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: AHP Matrix, local, open-source Analytic Hierarchy Process decision tool",
+    "points": 3,
+    "comments": 0,
+    "url": "https://github.com/Xafloc/ahp-matrix"
+  },
+  {
+    "source": "hn",
+    "title": "China's Smartphone Makers Turn to Recycled DRAM Chips Amid Memory Shortage",
+    "points": 3,
+    "comments": 0,
+    "url": "https://biz.chosun.com/it-science/ict/2026/10/20/ITRDSCOXPJD4PF2C6UYUKMAFQQ/"
+  },
+  {
+    "source": "hn",
+    "title": "Alibaba hikes DeepSeek V4 Flash 0731 output prices by 230%",
+    "points": 3,
+    "comments": 1,
+    "url": "https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead"
+  },
+  {
+    "source": "hn",
+    "title": "The Net in Cyberpunk: Blackwall, Datakrash and Rogue AIs",
+    "points": 3,
+    "comments": 1,
+    "url": "https://bisq.neocities.org/shrines/cyberpunk"
+  },
+  {
+    "source": "hn",
+    "title": "Ampersand by Humans&",
+    "points": 3,
+    "comments": 0,
+    "url": "https://ampersand.humansand.ai/blog/"
+  },
+  {
+    "source": "hn",
+    "title": "Video Game Reverse Engineering Community Shuts Down",
+    "points": 3,
+    "comments": 0,
+    "url": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Litedeck – Agentless server management GUI over plain SSH",
+    "points": 3,
+    "comments": 0,
+    "url": "https://github.com/cpprhtn/LiteDeck"
+  }
+]
