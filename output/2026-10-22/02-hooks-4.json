@@ -3,12 +3,12 @@
     "title": "#10 THE 40-SECOND FILM",
     "angle": "EMOTIONAL SHARE",
     "format": "short-video",
-    "score": 6,
+    "score": 7,
     "fid": 10,
     "trending": [
-      "Anthropic recorded a staggering $80B net loss in the first half of 2026",
-      "Xbox CTO teases Halo 3 in WebAssembly",
-      "Show HN: Gauge CLI – Open-Source Hillclimbing for Agent Experience"
+      "Show HN: I built a Markdown and raw HTML blog platform scoring 99 on PageSpeed",
+      "Ask HN: Are we giving away our civilization?",
+      "Milwaukee Brewers renege on golden tickets sold in 2016"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Situation 4 second mein saaf ho jaani chahiye — bina bole.",
     "Aakhri frame pehle frame ka echo ho, par meaning badla hua."
   ],
-  "best": 1,
+  "best": 2,
   "titles": [
     "#10 THE 40-SECOND FILM"
   ],
-  "thumbnail": "Ek khaali kursi. Ek adha likha letter. Ek band d"
+  "thumbnail": "Situation 4 second mein saaf ho jaani chahiye — "
 }
