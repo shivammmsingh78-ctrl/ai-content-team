@@ -1,0 +1,79 @@
+[
+  {
+    "source": "hn",
+    "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+    "points": 67,
+    "comments": 44,
+    "url": "https://alterauth.com/"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
+    "points": 61,
+    "comments": 54,
+    "url": "https://3anddoneapp.com/try"
+  },
+  {
+    "source": "hn",
+    "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
+    "points": 59,
+    "comments": 31,
+    "url": "https://news.ycombinator.com/item?id=50154029"
+  },
+  {
+    "source": "hn",
+    "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+    "points": 53,
+    "comments": 21,
+    "url": "https://news.ycombinator.com/item?id=50167583"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: I built a Markdown and raw HTML blog platform scoring 99 on PageSpeed",
+    "points": 27,
+    "comments": 25,
+    "url": "https://bloffy.co/en"
+  },
+  {
+    "source": "hn",
+    "title": "The Signal Chats That Cost OpenAI Researchers Their Jobs",
+    "points": 3,
+    "comments": 0,
+    "url": "https://www.wsj.com/tech/ai/the-signal-chats-that-cost-openai-researchers-their-jobs-594c5853"
+  },
+  {
+    "source": "hn",
+    "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+    "points": 3,
+    "comments": 2,
+    "url": "https://zordt.com/"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Making a smart TV dumb and then smart",
+    "points": 3,
+    "comments": 0,
+    "url": "https://github.com/anubhavmalhotra/r2d2-tv"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Impossible Machines: declaratively program the physical world",
+    "points": 3,
+    "comments": 0,
+    "url": "https://www.impossiblemachines.xyz"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: From our 1.8M-view launch to a library of human reactions",
+    "points": 3,
+    "comments": 2,
+    "url": "https://ugcpeople.com"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Craig – A TUI for running parallel coding agents",
+    "points": 3,
+    "comments": 4,
+    "url": "https://craig-cli.com/"
+  }
+]
