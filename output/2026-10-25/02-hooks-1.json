@@ -3,12 +3,12 @@
     "title": "#03 THE MYTH KILL",
     "angle": "BOOKMARK",
     "format": "short-video",
-    "score": 9,
+    "score": 10,
     "fid": 3,
     "trending": [
       "Launch HN: Alter (YC S25) – Access control for multi-user agents",
-      "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
-      "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces"
+      "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+      "Show HN: I built a Markdown and raw HTML blog platform scoring 99 on PageSpeed"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "8 glass paani. Kahan se aaya ye number? Kisi ne check hi nahi kiya.",
     "Multitasking exist hi nahi karti. Ye scientifically proven hai aur phir bhi har JD mein likha hota hai."
   ],
-  "best": 1,
+  "best": 2,
   "titles": [
     "#03 THE MYTH KILL"
   ],
-  "thumbnail": "Sab kehte hain niche pakdo. Maine 3 saal niche p"
+  "thumbnail": "8 glass paani. Kahan se aaya ye number? Kisi ne "
 }

@@ -3,12 +3,12 @@
     "title": "#05 THE REVERSE TRANSFORMATION",
     "angle": "HOOK",
     "format": "short-video",
-    "score": 7,
+    "score": 8,
     "fid": 5,
     "trending": [
       "Launch HN: Alter (YC S25) – Access control for multi-user agents",
-      "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
-      "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces"
+      "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+      "Show HN: I built a Markdown and raw HTML blog platform scoring 99 on PageSpeed"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Log poochte hain kaise kiya. Theek hai, reverse mein dikhata hoon.",
     "Ye final result hai. Ab main aapko wo dikhaunga jo maine kisi ko nahi dikhaya."
   ],
-  "best": 1,
+  "best": 2,
   "titles": [
     "#05 THE REVERSE TRANSFORMATION"
   ],
-  "thumbnail": "800 rupaye. Poora kharcha. Ab dikhata hoon pehle"
+  "thumbnail": "Log poochte hain kaise kiya. Theek hai, reverse "
 }
