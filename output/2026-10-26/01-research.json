@@ -1,0 +1,85 @@
+{
+  "trends": [
+    {
+      "name": "user formats",
+      "why": "boss ke diye proven reel formats"
+    }
+  ],
+  "ideas": [
+    {
+      "title": "#04 THE SCALE SHOCK",
+      "angle": "SHARE",
+      "format": "short-video",
+      "score": 10,
+      "fid": 4,
+      "trending": [
+        "Show HN: TitleArt – Make text like it's 1997",
+        "Ask HN: Is it not possible to enroll for Apple Developer anymore?",
+        "Show HN: Freehire, open-source search 3M+ tech jobs from company career boards"
+      ]
+    },
+    {
+      "title": "#05 THE REVERSE TRANSFORMATION",
+      "angle": "HOOK",
+      "format": "short-video",
+      "score": 9,
+      "fid": 5,
+      "trending": [
+        "Show HN: TitleArt – Make text like it's 1997",
+        "Ask HN: Is it not possible to enroll for Apple Developer anymore?",
+        "Show HN: Freehire, open-source search 3M+ tech jobs from company career boards"
+      ]
+    },
+    {
+      "title": "#06 THE SEAMLESS LOOP",
+      "angle": "WATCH TIME",
+      "format": "short-video",
+      "score": 8,
+      "fid": 6,
+      "trending": [
+        "Show HN: TitleArt – Make text like it's 1997",
+        "Ask HN: Is it not possible to enroll for Apple Developer anymore?",
+        "Show HN: Freehire, open-source search 3M+ tech jobs from company career boards"
+      ]
+    },
+    {
+      "title": "#07 THE DEADPAN ABSURD",
+      "angle": "SHARE",
+      "format": "short-video",
+      "score": 7,
+      "fid": 7,
+      "trending": [
+        "Show HN: TitleArt – Make text like it's 1997",
+        "Ask HN: Is it not possible to enroll for Apple Developer anymore?",
+        "Show HN: Freehire, open-source search 3M+ tech jobs from company career boards"
+      ]
+    },
+    {
+      "title": "#08 THE COMPLETE PROCESS",
+      "angle": "COMPLETION",
+      "format": "short-video",
+      "score": 6,
+      "fid": 8,
+      "trending": [
+        "Show HN: TitleArt – Make text like it's 1997",
+        "Ask HN: Is it not possible to enroll for Apple Developer anymore?",
+        "Show HN: Freehire, open-source search 3M+ tech jobs from company career boards"
+      ]
+    },
+    {
+      "title": "#09 THE COMPLETE POV",
+      "angle": "IMMERSION",
+      "format": "short-video",
+      "score": 5,
+      "fid": 9,
+      "trending": [
+        "Show HN: TitleArt – Make text like it's 1997",
+        "Ask HN: Is it not possible to enroll for Apple Developer anymore?",
+        "Show HN: Freehire, open-source search 3M+ tech jobs from company career boards"
+      ]
+    }
+  ],
+  "niches": [
+    "AI tools for solo creators"
+  ]
+}

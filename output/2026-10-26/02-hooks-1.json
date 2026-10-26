@@ -3,12 +3,12 @@
     "title": "#04 THE SCALE SHOCK",
     "angle": "SHARE",
     "format": "short-video",
-    "score": 9,
+    "score": 10,
     "fid": 4,
     "trending": [
-      "Launch HN: Alter (YC S25) – Access control for multi-user agents",
-      "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
-      "Show HN: I built a Markdown and raw HTML blog platform scoring 99 on PageSpeed"
+      "Show HN: TitleArt – Make text like it's 1997",
+      "Ask HN: Is it not possible to enroll for Apple Developer anymore?",
+      "Show HN: Freehire, open-source search 3M+ tech jobs from company career boards"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Aapke phone mein Apollo 11 se 100,000 guna zyada computing power hai. Aur aap usse reels dekh rahe ho.",
     "Insaan ki poori recorded history Earth ki umar ka 0.000006% hai."
   ],
-  "best": 2,
+  "best": 3,
   "titles": [
     "#04 THE SCALE SHOCK"
   ],
-  "thumbnail": "Aapke phone mein Apollo 11 se 100,000 guna zyada"
+  "thumbnail": "Insaan ki poori recorded history Earth ki umar k"
 }

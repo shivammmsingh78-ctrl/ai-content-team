@@ -3,12 +3,12 @@
     "title": "#06 THE SEAMLESS LOOP",
     "angle": "WATCH TIME",
     "format": "short-video",
-    "score": 7,
+    "score": 8,
     "fid": 6,
     "trending": [
-      "Launch HN: Alter (YC S25) – Access control for multi-user agents",
-      "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
-      "Show HN: I built a Markdown and raw HTML blog platform scoring 99 on PageSpeed"
+      "Show HN: TitleArt – Make text like it's 1997",
+      "Ask HN: Is it not possible to enroll for Apple Developer anymore?",
+      "Show HN: Freehire, open-source search 3M+ tech jobs from company career boards"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Kuch girta hua, jo aakhir mein wapas apni jagah aa jaata hai.",
     "Ek transformation jo circular ho — A se B se wapas A."
   ],
-  "best": 2,
+  "best": 3,
   "titles": [
     "#06 THE SEAMLESS LOOP"
   ],
-  "thumbnail": "Kuch girta hua, jo aakhir mein wapas apni jagah "
+  "thumbnail": "Ek transformation jo circular ho — A se B se wap"
 }
