@@ -3,12 +3,12 @@
     "title": "#05 THE REVERSE TRANSFORMATION",
     "angle": "HOOK",
     "format": "short-video",
-    "score": 9,
+    "score": 10,
     "fid": 5,
     "trending": [
-      "Show HN: TitleArt – Make text like it's 1997",
-      "Ask HN: Is it not possible to enroll for Apple Developer anymore?",
-      "Show HN: Freehire, open-source search 3M+ tech jobs from company career boards"
+      "After LiteLLM's backdoor, we open-sourced an OS-level package firewall",
+      "warp.dev Breached",
+      "Show HN: Wraps – Resend-style email on your own AWS SES, open source"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Log poochte hain kaise kiya. Theek hai, reverse mein dikhata hoon.",
     "Ye final result hai. Ab main aapko wo dikhaunga jo maine kisi ko nahi dikhaya."
   ],
-  "best": 3,
+  "best": 0,
   "titles": [
     "#05 THE REVERSE TRANSFORMATION"
   ],
-  "thumbnail": "Ye final result hai. Ab main aapko wo dikhaunga "
+  "thumbnail": "Ye kamra 2 ghante pehle aisa tha. Haan."
 }

@@ -1,0 +1,107 @@
+[
+  {
+    "source": "hn",
+    "title": "After LiteLLM's backdoor, we open-sourced an OS-level package firewall",
+    "points": 27,
+    "comments": 1,
+    "url": "https://github.com/usestrix/firewall"
+  },
+  {
+    "source": "hn",
+    "title": "warp.dev Breached",
+    "points": 26,
+    "comments": 2,
+    "url": "https://twitter.com/zachlloydtweets/status/2114800787716972873"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Wraps – Resend-style email on your own AWS SES, open source",
+    "points": 22,
+    "comments": 1,
+    "url": "https://wraps.dev"
+  },
+  {
+    "source": "hn",
+    "title": "Argus – Open-Source Agentic Security Platform – MIT",
+    "points": 15,
+    "comments": 2,
+    "url": "https://argusone.online"
+  },
+  {
+    "source": "hn",
+    "title": "Ask HN: What are your career plans in the age of AI?",
+    "points": 8,
+    "comments": 7,
+    "url": "https://news.ycombinator.com/item?id=50249194"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Termcraft – 2D terminal survival with multiplayer support",
+    "points": 7,
+    "comments": 3,
+    "url": "https://github.com/pagel-s/termcraft/tree/v0.2.0"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Font Fam – A directory of 2,181 open-source fonts",
+    "points": 5,
+    "comments": 3,
+    "url": "https://fontfam.net/"
+  },
+  {
+    "source": "hn",
+    "title": "Ask HN: Do you feel like you're seeing fewer bugs since the AI coding era began?",
+    "points": 4,
+    "comments": 3,
+    "url": "https://news.ycombinator.com/item?id=50254174"
+  },
+  {
+    "source": "hn",
+    "title": "Tech market feels like a data entry job",
+    "points": 4,
+    "comments": 0,
+    "url": "https://news.ycombinator.com/item?id=50254751"
+  },
+  {
+    "source": "hn",
+    "title": "Britain's Censorship Agencies",
+    "points": 4,
+    "comments": 0,
+    "url": "https://twitter.com/brianchau57/status/2114708217410257259"
+  },
+  {
+    "source": "hn",
+    "title": "Ask HN: How do you handle time-series metrics at scale without a large bill?",
+    "points": 3,
+    "comments": 1,
+    "url": "https://news.ycombinator.com/item?id=50253890"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Live speech-to-text on an ESP32-P4 microcontroller, no cloud",
+    "points": 3,
+    "comments": 1,
+    "url": "https://github.com/BoumedineBillal/esp32-pie-asr"
+  },
+  {
+    "source": "hn",
+    "title": "A directory for AI-slop games",
+    "points": 3,
+    "comments": 3,
+    "url": "https://claudeslop.bryanhu.com"
+  },
+  {
+    "source": "hn",
+    "title": "Tell HN: Claude Code now detects bugs in its own code",
+    "points": 3,
+    "comments": 1,
+    "url": "https://news.ycombinator.com/item?id=50249397"
+  },
+  {
+    "source": "hn",
+    "title": "Qwen Phoning Home",
+    "points": 3,
+    "comments": 2,
+    "url": "https://venturebeat.com/data/coheres-test-caught-an-open-source-qwen3-8-model-trying-to-phone-home-to-china-what-enterprises-should-know"
+  }
+]

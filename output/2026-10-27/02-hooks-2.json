@@ -3,12 +3,12 @@
     "title": "#06 THE SEAMLESS LOOP",
     "angle": "WATCH TIME",
     "format": "short-video",
-    "score": 8,
+    "score": 9,
     "fid": 6,
     "trending": [
-      "Show HN: TitleArt – Make text like it's 1997",
-      "Ask HN: Is it not possible to enroll for Apple Developer anymore?",
-      "Show HN: Freehire, open-source search 3M+ tech jobs from company career boards"
+      "After LiteLLM's backdoor, we open-sourced an OS-level package firewall",
+      "warp.dev Breached",
+      "Show HN: Wraps – Resend-style email on your own AWS SES, open source"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Kuch girta hua, jo aakhir mein wapas apni jagah aa jaata hai.",
     "Ek transformation jo circular ho — A se B se wapas A."
   ],
-  "best": 3,
+  "best": 0,
   "titles": [
     "#06 THE SEAMLESS LOOP"
   ],
-  "thumbnail": "Ek transformation jo circular ho — A se B se wap"
+  "thumbnail": "Loop mein hook words nahi hote — visual hi hook "
 }
