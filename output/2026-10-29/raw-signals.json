@@ -1,0 +1,86 @@
+[
+  {
+    "source": "hn",
+    "title": "Show HN: Uji – Gentoo of Coding Agents",
+    "points": 7,
+    "comments": 0,
+    "url": "https://github.com/uji-labs/uji"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Studio 3e8: Mesa 1, affordable Metal 3D Printer",
+    "points": 6,
+    "comments": 1,
+    "url": "https://www.studio3e8.com/post/studio-3e8-launch"
+  },
+  {
+    "source": "hn",
+    "title": "Ask HN: How do you grow OSS projects?",
+    "points": 6,
+    "comments": 15,
+    "url": "https://news.ycombinator.com/item?id=50242424"
+  },
+  {
+    "source": "hn",
+    "title": "Getting good at AI takes time and practice",
+    "points": 5,
+    "comments": 0,
+    "url": "https://www.seangoedecke.com/getting-good-at-ai-takes-time-and-practice/"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Breakout coordinator (Launch cross-vendor breakout sessions instantly)",
+    "points": 4,
+    "comments": 0,
+    "url": "https://github.com/saranyan/breakout-coordinator"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: U.S. Elections, Campaign Finance and Legislation on a Miller-Column UI",
+    "points": 4,
+    "comments": 0,
+    "url": "https://chamberzero.com/col/home/elections-overview%3Acurrent"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Nodecode, open-source living agent in Lisp that rewrites itself for you",
+    "points": 4,
+    "comments": 0,
+    "url": "https://github.com/nodecode-ai/nodecode"
+  },
+  {
+    "source": "hn",
+    "title": "GeForce vs. Workstation GPUs: Nvidia's Half Rate, Priced",
+    "points": 3,
+    "comments": 1,
+    "url": "https://www.airealist.ai/p/nvidia-geforce-half-rate"
+  },
+  {
+    "source": "hn",
+    "title": "Ultrasound creates a tube that guides matter through the air",
+    "points": 3,
+    "comments": 0,
+    "url": "https://www.helsinki.fi/en/news/energy/ultrasound-creates-tube-guides-matter-through-air"
+  },
+  {
+    "source": "hn",
+    "title": "NLnet Publishes More Stringent Generative AI Policy",
+    "points": 3,
+    "comments": 0,
+    "url": "https://nlnet.nl/news/2026/20261020-AI-policy.html"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: A malleable and formally verified Web engine",
+    "points": 3,
+    "comments": 0,
+    "url": "https://news.ycombinator.com/item?id=50285197"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: An OSS browser and work environment for humans and agents",
+    "points": 3,
+    "comments": 0,
+    "url": "https://github.com/zephium-browser/Zephium"
+  }
+]
