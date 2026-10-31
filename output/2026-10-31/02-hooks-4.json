@@ -3,12 +3,12 @@
     "title": "#06 THE SEAMLESS LOOP",
     "angle": "WATCH TIME",
     "format": "short-video",
-    "score": 6,
+    "score": 7,
     "fid": 6,
     "trending": [
-      "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-      "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
-      "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge"
+      "Tell HN: Scribd Breached",
+      "Tell HN: Scribd Breached",
+      "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Kuch girta hua, jo aakhir mein wapas apni jagah aa jaata hai.",
     "Ek transformation jo circular ho — A se B se wapas A."
   ],
-  "best": 1,
+  "best": 2,
   "titles": [
     "#06 THE SEAMLESS LOOP"
   ],
-  "thumbnail": "Ek object mid-motion mein — camera already move "
+  "thumbnail": "Kuch girta hua, jo aakhir mein wapas apni jagah "
 }

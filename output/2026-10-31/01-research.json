@@ -1,0 +1,85 @@
+{
+  "trends": [
+    {
+      "name": "user formats",
+      "why": "boss ke diye proven reel formats"
+    }
+  ],
+  "ideas": [
+    {
+      "title": "#03 THE MYTH KILL",
+      "angle": "BOOKMARK",
+      "format": "short-video",
+      "score": 10,
+      "fid": 3,
+      "trending": [
+        "Tell HN: Scribd Breached",
+        "Tell HN: Scribd Breached",
+        "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents"
+      ]
+    },
+    {
+      "title": "#04 THE SCALE SHOCK",
+      "angle": "SHARE",
+      "format": "short-video",
+      "score": 9,
+      "fid": 4,
+      "trending": [
+        "Tell HN: Scribd Breached",
+        "Tell HN: Scribd Breached",
+        "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents"
+      ]
+    },
+    {
+      "title": "#05 THE REVERSE TRANSFORMATION",
+      "angle": "HOOK",
+      "format": "short-video",
+      "score": 8,
+      "fid": 5,
+      "trending": [
+        "Tell HN: Scribd Breached",
+        "Tell HN: Scribd Breached",
+        "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents"
+      ]
+    },
+    {
+      "title": "#06 THE SEAMLESS LOOP",
+      "angle": "WATCH TIME",
+      "format": "short-video",
+      "score": 7,
+      "fid": 6,
+      "trending": [
+        "Tell HN: Scribd Breached",
+        "Tell HN: Scribd Breached",
+        "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents"
+      ]
+    },
+    {
+      "title": "#07 THE DEADPAN ABSURD",
+      "angle": "SHARE",
+      "format": "short-video",
+      "score": 6,
+      "fid": 7,
+      "trending": [
+        "Tell HN: Scribd Breached",
+        "Tell HN: Scribd Breached",
+        "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents"
+      ]
+    },
+    {
+      "title": "#08 THE COMPLETE PROCESS",
+      "angle": "COMPLETION",
+      "format": "short-video",
+      "score": 5,
+      "fid": 8,
+      "trending": [
+        "Tell HN: Scribd Breached",
+        "Tell HN: Scribd Breached",
+        "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents"
+      ]
+    }
+  ],
+  "niches": [
+    "AI tools for solo creators"
+  ]
+}
