@@ -3,12 +3,12 @@
     "title": "#04 THE SCALE SHOCK",
     "angle": "SHARE",
     "format": "short-video",
-    "score": 9,
+    "score": 8,
     "fid": 4,
     "trending": [
-      "Tell HN: Scribd Breached",
-      "Tell HN: Scribd Breached",
-      "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents"
+      "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+      "Show HN: Sunlight – the camera-based infinite canvas window manager for Mac",
+      "Ask HN: How do you grow OSS projects?"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Aapke phone mein Apollo 11 se 100,000 guna zyada computing power hai. Aur aap usse reels dekh rahe ho.",
     "Insaan ki poori recorded history Earth ki umar ka 0.000006% hai."
   ],
-  "best": 2,
+  "best": 1,
   "titles": [
     "#04 THE SCALE SHOCK"
   ],
-  "thumbnail": "Aapke phone mein Apollo 11 se 100,000 guna zyada"
+  "thumbnail": "Agar aap har second ek rupaya gino, ek crore gin"
 }
