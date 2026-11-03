@@ -3,12 +3,12 @@
     "title": "#04 THE SCALE SHOCK",
     "angle": "SHARE",
     "format": "short-video",
-    "score": 9,
+    "score": 10,
     "fid": 4,
     "trending": [
-      "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-      "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
-      "Show HN: Sunlight – the camera-based infinite canvas window manager for Mac"
+      "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "Ask HN: Does anyone have a contact with Cleveland-area Ham club?",
+      "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Aapke phone mein Apollo 11 se 100,000 guna zyada computing power hai. Aur aap usse reels dekh rahe ho.",
     "Insaan ki poori recorded history Earth ki umar ka 0.000006% hai."
   ],
-  "best": 2,
+  "best": 3,
   "titles": [
     "#04 THE SCALE SHOCK"
   ],
-  "thumbnail": "Aapke phone mein Apollo 11 se 100,000 guna zyada"
+  "thumbnail": "Insaan ki poori recorded history Earth ki umar k"
 }
