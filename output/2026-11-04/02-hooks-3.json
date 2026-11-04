@@ -3,12 +3,12 @@
     "title": "#07 THE DEADPAN ABSURD",
     "angle": "SHARE",
     "format": "short-video",
-    "score": 7,
+    "score": 8,
     "fid": 7,
     "trending": [
-      "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
-      "Ask HN: Does anyone have a contact with Cleveland-area Ham club?",
-      "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities"
+      "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+      "Tell HN: Don't use Postman, they proxy your info without your permission",
+      "French blood storage facilities targeted in cyberattack"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Camera react na kare — no zoom, no sound effect.",
     "Characters absurdity ko roz ki baat samjhein."
   ],
-  "best": 3,
+  "best": 0,
   "titles": [
     "#07 THE DEADPAN ABSURD"
   ],
-  "thumbnail": "Characters absurdity ko roz ki baat samjhein."
+  "thumbnail": "Koi verbal hook nahi — visual absurdity hi hook "
 }

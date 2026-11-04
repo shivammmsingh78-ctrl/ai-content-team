@@ -3,12 +3,12 @@
     "title": "#06 THE SEAMLESS LOOP",
     "angle": "WATCH TIME",
     "format": "short-video",
-    "score": 8,
+    "score": 9,
     "fid": 6,
     "trending": [
-      "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
-      "Ask HN: Does anyone have a contact with Cleveland-area Ham club?",
-      "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities"
+      "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+      "Tell HN: Don't use Postman, they proxy your info without your permission",
+      "French blood storage facilities targeted in cyberattack"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Kuch girta hua, jo aakhir mein wapas apni jagah aa jaata hai.",
     "Ek transformation jo circular ho — A se B se wapas A."
   ],
-  "best": 3,
+  "best": 0,
   "titles": [
     "#06 THE SEAMLESS LOOP"
   ],
-  "thumbnail": "Ek transformation jo circular ho — A se B se wap"
+  "thumbnail": "Loop mein hook words nahi hote — visual hi hook "
 }

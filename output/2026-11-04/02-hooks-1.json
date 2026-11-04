@@ -3,12 +3,12 @@
     "title": "#05 THE REVERSE TRANSFORMATION",
     "angle": "HOOK",
     "format": "short-video",
-    "score": 9,
+    "score": 10,
     "fid": 5,
     "trending": [
-      "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
-      "Ask HN: Does anyone have a contact with Cleveland-area Ham club?",
-      "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities"
+      "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+      "Tell HN: Don't use Postman, they proxy your info without your permission",
+      "French blood storage facilities targeted in cyberattack"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Log poochte hain kaise kiya. Theek hai, reverse mein dikhata hoon.",
     "Ye final result hai. Ab main aapko wo dikhaunga jo maine kisi ko nahi dikhaya."
   ],
-  "best": 3,
+  "best": 0,
   "titles": [
     "#05 THE REVERSE TRANSFORMATION"
   ],
-  "thumbnail": "Ye final result hai. Ab main aapko wo dikhaunga "
+  "thumbnail": "Ye kamra 2 ghante pehle aisa tha. Haan."
 }
