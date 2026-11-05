@@ -1,0 +1,85 @@
+{
+  "trends": [
+    {
+      "name": "user formats",
+      "why": "boss ke diye proven reel formats"
+    }
+  ],
+  "ideas": [
+    {
+      "title": "#06 THE SEAMLESS LOOP",
+      "angle": "WATCH TIME",
+      "format": "short-video",
+      "score": 10,
+      "fid": 6,
+      "trending": [
+        "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+        "Dev Reverse Engineers Billion Dollar Harvey AI and Releases It Free, Open Source",
+        "Show HN: An open source repo to use your personal context with any agent"
+      ]
+    },
+    {
+      "title": "#07 THE DEADPAN ABSURD",
+      "angle": "SHARE",
+      "format": "short-video",
+      "score": 9,
+      "fid": 7,
+      "trending": [
+        "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+        "Dev Reverse Engineers Billion Dollar Harvey AI and Releases It Free, Open Source",
+        "Show HN: An open source repo to use your personal context with any agent"
+      ]
+    },
+    {
+      "title": "#08 THE COMPLETE PROCESS",
+      "angle": "COMPLETION",
+      "format": "short-video",
+      "score": 8,
+      "fid": 8,
+      "trending": [
+        "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+        "Dev Reverse Engineers Billion Dollar Harvey AI and Releases It Free, Open Source",
+        "Show HN: An open source repo to use your personal context with any agent"
+      ]
+    },
+    {
+      "title": "#09 THE COMPLETE POV",
+      "angle": "IMMERSION",
+      "format": "short-video",
+      "score": 7,
+      "fid": 9,
+      "trending": [
+        "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+        "Dev Reverse Engineers Billion Dollar Harvey AI and Releases It Free, Open Source",
+        "Show HN: An open source repo to use your personal context with any agent"
+      ]
+    },
+    {
+      "title": "#10 THE 40-SECOND FILM",
+      "angle": "EMOTIONAL SHARE",
+      "format": "short-video",
+      "score": 6,
+      "fid": 10,
+      "trending": [
+        "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+        "Dev Reverse Engineers Billion Dollar Harvey AI and Releases It Free, Open Source",
+        "Show HN: An open source repo to use your personal context with any agent"
+      ]
+    },
+    {
+      "title": "#01 THE RECEIPT DROP",
+      "angle": "SAVE",
+      "format": "short-video",
+      "score": 5,
+      "fid": 1,
+      "trending": [
+        "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+        "Dev Reverse Engineers Billion Dollar Harvey AI and Releases It Free, Open Source",
+        "Show HN: An open source repo to use your personal context with any agent"
+      ]
+    }
+  ],
+  "niches": [
+    "AI tools for solo creators"
+  ]
+}

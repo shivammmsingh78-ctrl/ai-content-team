@@ -3,12 +3,12 @@
     "title": "#06 THE SEAMLESS LOOP",
     "angle": "WATCH TIME",
     "format": "short-video",
-    "score": 9,
+    "score": 10,
     "fid": 6,
     "trending": [
-      "Show HN: Kairos – Open-source risk and fraud decisioning platform",
-      "Tell HN: Don't use Postman, they proxy your info without your permission",
-      "French blood storage facilities targeted in cyberattack"
+      "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+      "Dev Reverse Engineers Billion Dollar Harvey AI and Releases It Free, Open Source",
+      "Show HN: An open source repo to use your personal context with any agent"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Kuch girta hua, jo aakhir mein wapas apni jagah aa jaata hai.",
     "Ek transformation jo circular ho — A se B se wapas A."
   ],
-  "best": 0,
+  "best": 1,
   "titles": [
     "#06 THE SEAMLESS LOOP"
   ],
-  "thumbnail": "Loop mein hook words nahi hote — visual hi hook "
+  "thumbnail": "Ek object mid-motion mein — camera already move "
 }

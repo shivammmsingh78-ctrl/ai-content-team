@@ -1,0 +1,79 @@
+[
+  {
+    "source": "hn",
+    "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+    "points": 29,
+    "comments": 4,
+    "url": "https://github.com/gauge-sh/gauge-cli"
+  },
+  {
+    "source": "hn",
+    "title": "Dev Reverse Engineers Billion Dollar Harvey AI and Releases It Free, Open Source",
+    "points": 15,
+    "comments": 5,
+    "url": "https://apnews.com/press-release/ein-presswire-newsmatics/press-release-89b81414fe7cc937935f093a01305110"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: An open source repo to use your personal context with any agent",
+    "points": 4,
+    "comments": 0,
+    "url": "https://predsymod.github.io/memex/"
+  },
+  {
+    "source": "hn",
+    "title": "GarlicSignage – open-source Digital Signage Software",
+    "points": 3,
+    "comments": 0,
+    "url": "https://github.com/garlic-signage"
+  },
+  {
+    "source": "hn",
+    "title": "OSS project renders your Windows 11 desktop using the NPU rather than the GPU",
+    "points": 3,
+    "comments": 2,
+    "url": "https://www.tomshardware.com/pc-components/gpu-drivers/open-source-project-renders-your-windows-11-desktop-using-the-npu-rather-than-the-gpu-npu-driver-can-only-run-at-2-to-3-hz-targets-30-hz-performance"
+  },
+  {
+    "source": "hn",
+    "title": "Tell HN: Google Play will public-share your address and phone if you sell in EU",
+    "points": 3,
+    "comments": 0,
+    "url": "https://news.ycombinator.com/item?id=50375898"
+  },
+  {
+    "source": "hn",
+    "title": "Visual Positioning System for Trees",
+    "points": 3,
+    "comments": 1,
+    "url": "https://twitter.com/DjimoSerodio/status/2118157383369396289"
+  },
+  {
+    "source": "hn",
+    "title": "Agent State Machines: Building Deterministic Scaffolding for Agents",
+    "points": 3,
+    "comments": 0,
+    "url": "https://twitter.com/josharosen/status/2117687393213932003"
+  },
+  {
+    "source": "hn",
+    "title": "Tencent Hy4 Intelligence, Performance and Price Analysis",
+    "points": 3,
+    "comments": 0,
+    "url": "https://artificialanalysis.ai/models/tencent-hy4"
+  },
+  {
+    "source": "hn",
+    "title": "Big Tech claims voters' AI backlash is \"anti-Trump\" not \"anti-tech\"",
+    "points": 3,
+    "comments": 3,
+    "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/"
+  },
+  {
+    "source": "hn",
+    "title": "What's the worst bug an AI coding agent silently introduced into your code?",
+    "points": 3,
+    "comments": 1,
+    "url": "https://news.ycombinator.com/item?id=50374984"
+  }
+]
