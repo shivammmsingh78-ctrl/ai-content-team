@@ -3,12 +3,12 @@
     "title": "#10 THE 40-SECOND FILM",
     "angle": "EMOTIONAL SHARE",
     "format": "short-video",
-    "score": 6,
+    "score": 7,
     "fid": 10,
     "trending": [
-      "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
-      "Dev Reverse Engineers Billion Dollar Harvey AI and Releases It Free, Open Source",
-      "Show HN: An open source repo to use your personal context with any agent"
+      "Claude Code, but for SEO",
+      "Why Everything Is Starting to Look the Same",
+      "US FAA says it will phase out floppy disks from air traffic control by 2028"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Situation 4 second mein saaf ho jaani chahiye — bina bole.",
     "Aakhri frame pehle frame ka echo ho, par meaning badla hua."
   ],
-  "best": 1,
+  "best": 2,
   "titles": [
     "#10 THE 40-SECOND FILM"
   ],
-  "thumbnail": "Ek khaali kursi. Ek adha likha letter. Ek band d"
+  "thumbnail": "Situation 4 second mein saaf ho jaani chahiye — "
 }
