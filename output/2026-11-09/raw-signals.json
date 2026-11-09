@@ -1,0 +1,107 @@
+[
+  {
+    "source": "hn",
+    "title": "Ask HN: What are you working on? (November 2026)",
+    "points": 195,
+    "comments": 652,
+    "url": "https://news.ycombinator.com/item?id=50417407"
+  },
+  {
+    "source": "hn",
+    "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+    "points": 120,
+    "comments": 59,
+    "url": "https://github.com/rivet-dev/rivet"
+  },
+  {
+    "source": "hn",
+    "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+    "points": 111,
+    "comments": 36,
+    "url": "https://news.ycombinator.com/item?id=50368804"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: SIE Serverless – managed inference powered by self-hostable stack",
+    "points": 9,
+    "comments": 1,
+    "url": "https://superlinked.com/"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+    "points": 9,
+    "comments": 1,
+    "url": "https://github.com/OmniJev/Flide"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Tell the Sky – message lanterns drift on winds from live weather data",
+    "points": 6,
+    "comments": 1,
+    "url": "https://tellthesky.com"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Strive and Seek – original merch for builders, hackers and founders",
+    "points": 5,
+    "comments": 0,
+    "url": "https://shopstriveandseek.com/"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: HackerReels - Short Videos for viral HN posts",
+    "points": 4,
+    "comments": 3,
+    "url": "https://wile.ai/v/BPOH3BHCRWWCAKU4OVNOTEQ73A"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Logcrux – An intelligent local log analyzer",
+    "points": 4,
+    "comments": 0,
+    "url": "https://logcrux.com"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: I got laid off and built a competitor website change tracker",
+    "points": 4,
+    "comments": 0,
+    "url": "https://lifeadminpilot.com/tool"
+  },
+  {
+    "source": "hn",
+    "title": "Ask HN: As a human, are you glad the AI bubble is bursting?",
+    "points": 4,
+    "comments": 2,
+    "url": "https://news.ycombinator.com/item?id=50421778"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: ICC display calibration QR code markers",
+    "points": 3,
+    "comments": 0,
+    "url": "https://iccqr.github.io"
+  },
+  {
+    "source": "hn",
+    "title": "Ask HN: Is it normal to not write code for a years as software engineer?",
+    "points": 3,
+    "comments": 3,
+    "url": "https://news.ycombinator.com/item?id=50420252"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Airlock – Policy-as-code for fleets of AI coding agents",
+    "points": 3,
+    "comments": 0,
+    "url": "https://airlock.lunareng.com/docs"
+  },
+  {
+    "source": "hn",
+    "title": "Ask HN: Can I do a Show HN for a closed source tool I built?",
+    "points": 3,
+    "comments": 0,
+    "url": "https://news.ycombinator.com/item?id=50416088"
+  }
+]

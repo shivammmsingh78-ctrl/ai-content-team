@@ -3,12 +3,12 @@
     "title": "#05 THE REVERSE TRANSFORMATION",
     "angle": "HOOK",
     "format": "short-video",
-    "score": 6,
+    "score": 8,
     "fid": 5,
     "trending": [
+      "Ask HN: What are you working on? (November 2026)",
       "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-      "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-      "Show HN: SIE Serverless – managed inference powered by self-hostable stack"
+      "Launch HN: Kino AI (YC S23) – AI media manager and video editor"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Log poochte hain kaise kiya. Theek hai, reverse mein dikhata hoon.",
     "Ye final result hai. Ab main aapko wo dikhaunga jo maine kisi ko nahi dikhaya."
   ],
-  "best": 0,
+  "best": 2,
   "titles": [
     "#05 THE REVERSE TRANSFORMATION"
   ],
-  "thumbnail": "Ye kamra 2 ghante pehle aisa tha. Haan."
+  "thumbnail": "Log poochte hain kaise kiya. Theek hai, reverse "
 }
