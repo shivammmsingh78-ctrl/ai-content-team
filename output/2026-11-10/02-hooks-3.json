@@ -3,12 +3,12 @@
     "title": "#07 THE DEADPAN ABSURD",
     "angle": "SHARE",
     "format": "short-video",
-    "score": 6,
+    "score": 8,
     "fid": 7,
     "trending": [
-      "Ask HN: What are you working on? (November 2026)",
-      "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-      "Launch HN: Kino AI (YC S23) – AI media manager and video editor"
+      "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+      "Synaptics sends cease-and-desist order to open-source DisplayLink hobbyist",
+      "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Camera react na kare — no zoom, no sound effect.",
     "Characters absurdity ko roz ki baat samjhein."
   ],
-  "best": 2,
+  "best": 0,
   "titles": [
     "#07 THE DEADPAN ABSURD"
   ],
-  "thumbnail": "Camera react na kare — no zoom, no sound effect."
+  "thumbnail": "Koi verbal hook nahi — visual absurdity hi hook "
 }

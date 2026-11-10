@@ -3,12 +3,12 @@
     "title": "#06 THE SEAMLESS LOOP",
     "angle": "WATCH TIME",
     "format": "short-video",
-    "score": 7,
+    "score": 9,
     "fid": 6,
     "trending": [
-      "Ask HN: What are you working on? (November 2026)",
-      "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-      "Launch HN: Kino AI (YC S23) – AI media manager and video editor"
+      "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+      "Synaptics sends cease-and-desist order to open-source DisplayLink hobbyist",
+      "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Kuch girta hua, jo aakhir mein wapas apni jagah aa jaata hai.",
     "Ek transformation jo circular ho — A se B se wapas A."
   ],
-  "best": 2,
+  "best": 0,
   "titles": [
     "#06 THE SEAMLESS LOOP"
   ],
-  "thumbnail": "Kuch girta hua, jo aakhir mein wapas apni jagah "
+  "thumbnail": "Loop mein hook words nahi hote — visual hi hook "
 }
