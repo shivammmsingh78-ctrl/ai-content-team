@@ -1,0 +1,100 @@
+[
+  {
+    "source": "hn",
+    "title": "PCMag demands $12000 to link to an article",
+    "points": 41,
+    "comments": 9,
+    "url": "https://twitter.com/rickbrewPDN/status/2120970541331050926"
+  },
+  {
+    "source": "hn",
+    "title": "Microsoft Outlook/365 still down after 12 hours",
+    "points": 33,
+    "comments": 4,
+    "url": "https://twitter.com/MSFT365Status/status/2121079061774491735"
+  },
+  {
+    "source": "hn",
+    "title": "Announcement: Conductor Is Back",
+    "points": 30,
+    "comments": 18,
+    "url": "https://twitter.com/charlieholtz/status/2120973052024598620"
+  },
+  {
+    "source": "hn",
+    "title": "Outlook Down, Microsoft Teams and Office may be impacted",
+    "points": 16,
+    "comments": 2,
+    "url": "https://status.cloud.microsoft/m365/referrer=serviceStatusRedirect"
+  },
+  {
+    "source": "hn",
+    "title": "Zelenskyy: Significant Disruptions to Starshield's Operations",
+    "points": 12,
+    "comments": 1,
+    "url": "https://twitter.com/ZelenskyyUa/status/2120804738031616095"
+  },
+  {
+    "source": "hn",
+    "title": "Top Chinese AI labs built their newest models on Nvidia's Blackwell chips",
+    "points": 11,
+    "comments": 4,
+    "url": "https://twitter.com/willdepue/status/2120992457630326841"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay",
+    "points": 11,
+    "comments": 4,
+    "url": "https://github.com/cerulion-inc/cerulion"
+  },
+  {
+    "source": "hn",
+    "title": "Outlook still down for anyone else?",
+    "points": 6,
+    "comments": 6,
+    "url": "https://news.ycombinator.com/item?id=50478356"
+  },
+  {
+    "source": "hn",
+    "title": "The Scandal Is Bigger Than Jensen Huang",
+    "points": 5,
+    "comments": 0,
+    "url": "https://www.theatlantic.com/international/2026/11/nvidia-china-ai-regulation/689387/"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A",
+    "points": 5,
+    "comments": 0,
+    "url": "https://github.com/pharma2a/pharma2a"
+  },
+  {
+    "source": "hn",
+    "title": "Huang is just the start: Spy agencies warn of 'honey trap' revival",
+    "points": 3,
+    "comments": 2,
+    "url": "https://www.afr.com/technology/jensen-is-just-the-start-spy-agencies-warn-of-honey-trap-revival-20261113-p61dbz"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: AxiomStory – Keep stories consistent across AI text, images, video",
+    "points": 3,
+    "comments": 1,
+    "url": "https://axiomstory.com"
+  },
+  {
+    "source": "hn",
+    "title": "United Airlines blocks AI agents from booking flights",
+    "points": 3,
+    "comments": 1,
+    "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Zero-axiom Lean 4 proof of Yang–Mills R^4 defect via Peano arithmetic",
+    "points": 3,
+    "comments": 0,
+    "url": "https://github.com/Dr-Logvinovich/round-square"
+  }
+]
