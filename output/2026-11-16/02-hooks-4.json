@@ -3,12 +3,12 @@
     "title": "#06 THE SEAMLESS LOOP",
     "angle": "WATCH TIME",
     "format": "short-video",
-    "score": 6,
+    "score": 7,
     "fid": 6,
     "trending": [
-      "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-      "Show HN: Gawain – Require type hints on all Python variables",
-      "Show HN: Gawain – Require type hints on all Python variables"
+      "Tell HN: HN is being scraped for emails to scam",
+      "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+      "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Kuch girta hua, jo aakhir mein wapas apni jagah aa jaata hai.",
     "Ek transformation jo circular ho — A se B se wapas A."
   ],
-  "best": 1,
+  "best": 2,
   "titles": [
     "#06 THE SEAMLESS LOOP"
   ],
-  "thumbnail": "Ek object mid-motion mein — camera already move "
+  "thumbnail": "Kuch girta hua, jo aakhir mein wapas apni jagah "
 }

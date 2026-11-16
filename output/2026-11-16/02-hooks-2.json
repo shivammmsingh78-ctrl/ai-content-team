@@ -3,12 +3,12 @@
     "title": "#04 THE SCALE SHOCK",
     "angle": "SHARE",
     "format": "short-video",
-    "score": 8,
+    "score": 9,
     "fid": 4,
     "trending": [
-      "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-      "Show HN: Gawain – Require type hints on all Python variables",
-      "Show HN: Gawain – Require type hints on all Python variables"
+      "Tell HN: HN is being scraped for emails to scam",
+      "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+      "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Aapke phone mein Apollo 11 se 100,000 guna zyada computing power hai. Aur aap usse reels dekh rahe ho.",
     "Insaan ki poori recorded history Earth ki umar ka 0.000006% hai."
   ],
-  "best": 1,
+  "best": 2,
   "titles": [
     "#04 THE SCALE SHOCK"
   ],
-  "thumbnail": "Agar aap har second ek rupaya gino, ek crore gin"
+  "thumbnail": "Aapke phone mein Apollo 11 se 100,000 guna zyada"
 }

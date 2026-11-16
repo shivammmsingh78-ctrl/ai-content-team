@@ -3,12 +3,12 @@
     "title": "#05 THE REVERSE TRANSFORMATION",
     "angle": "HOOK",
     "format": "short-video",
-    "score": 7,
+    "score": 8,
     "fid": 5,
     "trending": [
-      "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-      "Show HN: Gawain – Require type hints on all Python variables",
-      "Show HN: Gawain – Require type hints on all Python variables"
+      "Tell HN: HN is being scraped for emails to scam",
+      "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+      "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Log poochte hain kaise kiya. Theek hai, reverse mein dikhata hoon.",
     "Ye final result hai. Ab main aapko wo dikhaunga jo maine kisi ko nahi dikhaya."
   ],
-  "best": 1,
+  "best": 2,
   "titles": [
     "#05 THE REVERSE TRANSFORMATION"
   ],
-  "thumbnail": "800 rupaye. Poora kharcha. Ab dikhata hoon pehle"
+  "thumbnail": "Log poochte hain kaise kiya. Theek hai, reverse "
 }
