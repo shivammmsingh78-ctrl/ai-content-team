@@ -3,12 +3,12 @@
     "title": "#06 THE SEAMLESS LOOP",
     "angle": "WATCH TIME",
     "format": "short-video",
-    "score": 7,
+    "score": 9,
     "fid": 6,
     "trending": [
-      "Tell HN: HN is being scraped for emails to scam",
-      "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-      "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents"
+      "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+      "Show HN: Open-source, real-time object tracking for live video feeds",
+      "SignuDoc: Open-source document signature platform"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Kuch girta hua, jo aakhir mein wapas apni jagah aa jaata hai.",
     "Ek transformation jo circular ho — A se B se wapas A."
   ],
-  "best": 2,
+  "best": 0,
   "titles": [
     "#06 THE SEAMLESS LOOP"
   ],
-  "thumbnail": "Kuch girta hua, jo aakhir mein wapas apni jagah "
+  "thumbnail": "Loop mein hook words nahi hote — visual hi hook "
 }
