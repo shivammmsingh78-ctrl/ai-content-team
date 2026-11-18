@@ -3,12 +3,12 @@
     "title": "#06 THE SEAMLESS LOOP",
     "angle": "WATCH TIME",
     "format": "short-video",
-    "score": 9,
+    "score": 10,
     "fid": 6,
     "trending": [
-      "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
-      "Show HN: Open-source, real-time object tracking for live video feeds",
-      "SignuDoc: Open-source document signature platform"
+      "Interviewed at a YC startup, found out they used my LinkedIn without permission",
+      "AI is killing All About Berlin",
+      "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Kuch girta hua, jo aakhir mein wapas apni jagah aa jaata hai.",
     "Ek transformation jo circular ho — A se B se wapas A."
   ],
-  "best": 0,
+  "best": 1,
   "titles": [
     "#06 THE SEAMLESS LOOP"
   ],
-  "thumbnail": "Loop mein hook words nahi hote — visual hi hook "
+  "thumbnail": "Ek object mid-motion mein — camera already move "
 }

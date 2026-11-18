@@ -1,0 +1,85 @@
+{
+  "trends": [
+    {
+      "name": "user formats",
+      "why": "boss ke diye proven reel formats"
+    }
+  ],
+  "ideas": [
+    {
+      "title": "#06 THE SEAMLESS LOOP",
+      "angle": "WATCH TIME",
+      "format": "short-video",
+      "score": 10,
+      "fid": 6,
+      "trending": [
+        "Interviewed at a YC startup, found out they used my LinkedIn without permission",
+        "AI is killing All About Berlin",
+        "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos"
+      ]
+    },
+    {
+      "title": "#07 THE DEADPAN ABSURD",
+      "angle": "SHARE",
+      "format": "short-video",
+      "score": 9,
+      "fid": 7,
+      "trending": [
+        "Interviewed at a YC startup, found out they used my LinkedIn without permission",
+        "AI is killing All About Berlin",
+        "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos"
+      ]
+    },
+    {
+      "title": "#08 THE COMPLETE PROCESS",
+      "angle": "COMPLETION",
+      "format": "short-video",
+      "score": 8,
+      "fid": 8,
+      "trending": [
+        "Interviewed at a YC startup, found out they used my LinkedIn without permission",
+        "AI is killing All About Berlin",
+        "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos"
+      ]
+    },
+    {
+      "title": "#09 THE COMPLETE POV",
+      "angle": "IMMERSION",
+      "format": "short-video",
+      "score": 7,
+      "fid": 9,
+      "trending": [
+        "Interviewed at a YC startup, found out they used my LinkedIn without permission",
+        "AI is killing All About Berlin",
+        "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos"
+      ]
+    },
+    {
+      "title": "#10 THE 40-SECOND FILM",
+      "angle": "EMOTIONAL SHARE",
+      "format": "short-video",
+      "score": 6,
+      "fid": 10,
+      "trending": [
+        "Interviewed at a YC startup, found out they used my LinkedIn without permission",
+        "AI is killing All About Berlin",
+        "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos"
+      ]
+    },
+    {
+      "title": "#01 THE RECEIPT DROP",
+      "angle": "SAVE",
+      "format": "short-video",
+      "score": 5,
+      "fid": 1,
+      "trending": [
+        "Interviewed at a YC startup, found out they used my LinkedIn without permission",
+        "AI is killing All About Berlin",
+        "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos"
+      ]
+    }
+  ],
+  "niches": [
+    "AI tools for solo creators"
+  ]
+}
