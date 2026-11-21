@@ -3,12 +3,12 @@
     "title": "#01 THE RECEIPT DROP",
     "angle": "SAVE",
     "format": "short-video",
-    "score": 6,
+    "score": 10,
     "fid": 1,
     "trending": [
-      "I recreated the WORLD in Minecraft at 1:1 scale",
-      "US Approved AI Chip Sales to China's Tencent, Alibaba, Data Show",
-      "Nobody is talking seriously about AI demand"
+      "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+      "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Main aapko wo dikhata hoon jo koi course bechne wala nahi dikhata — apna asli data.",
     "Isme se 3 cheezein kaam aayi. Baaki 11 waste thi. Dono dikha raha hoon."
   ],
-  "best": 2,
+  "best": 0,
   "titles": [
     "#01 THE RECEIPT DROP"
   ],
-  "thumbnail": "Main aapko wo dikhata hoon jo koi course bechne "
+  "thumbnail": "Ye mera bank statement hai. Ab main aapko batata"
 }
