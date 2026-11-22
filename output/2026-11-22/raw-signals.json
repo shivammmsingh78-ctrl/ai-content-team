@@ -2,7 +2,7 @@
   {
     "source": "hn",
     "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-    "points": 124,
+    "points": 125,
     "comments": 85,
     "url": "https://github.com/onlook-dev/onlook/"
   },
@@ -17,7 +17,7 @@
     "source": "hn",
     "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
     "points": 60,
-    "comments": 65,
+    "comments": 66,
     "url": "https://news.ycombinator.com/item?id=50549188"
   },
   {
@@ -29,17 +29,17 @@
   },
   {
     "source": "hn",
-    "title": "ClawDOS – An AI coding agent for DOS",
-    "points": 30,
-    "comments": 5,
-    "url": "http://ricapar.net/ClawDOS/"
+    "title": "Show HN: The Riemann Proof Handbook",
+    "points": 19,
+    "comments": 3,
+    "url": "https://github.com/tamnd/riemann-handbook"
   },
   {
     "source": "hn",
-    "title": "Don't Play Anthropic's Game",
-    "points": 10,
+    "title": "Show HN: The Riemann Proof Handbook",
+    "points": 19,
     "comments": 3,
-    "url": "https://www.nytimes.com/2026/11/19/opinion/anthropic-ipo-ai-regulation.html"
+    "url": "https://github.com/tamnd/riemann-handbook"
   },
   {
     "source": "hn",
@@ -71,37 +71,37 @@
   },
   {
     "source": "hn",
-    "title": "Ask HN: OpenAI Astra post-launch slump?",
-    "points": 4,
-    "comments": 6,
-    "url": "https://news.ycombinator.com/item?id=50493498"
-  },
-  {
-    "source": "hn",
-    "title": "Federal Revenue When AI Replaces Labor",
+    "title": "Ask HN: Is Anthropic being public better or worse for your org?",
     "points": 3,
-    "comments": 2,
-    "url": "https://www.rand.org/pubs/research_reports/RRA4980-1.html"
+    "comments": 1,
+    "url": "https://news.ycombinator.com/item?id=50597005"
   },
   {
     "source": "hn",
-    "title": "Show HN: Musset, open-source Scrivener alternative with an AI that never writes",
+    "title": "Show HN: GitHub Plays Linux",
     "points": 3,
     "comments": 0,
-    "url": "https://github.com/Musset-App/musset"
+    "url": "https://github.com/seg6"
   },
   {
     "source": "hn",
-    "title": "Show HN: Musset, open-source Scrivener alternative with an AI that never writes",
+    "title": "Show HN: System 1.5 Model – Inkling-2-Mini Decision",
     "points": 3,
     "comments": 0,
-    "url": "https://github.com/Musset-App/musset"
+    "url": "https://huggingface.co/eltokh7/inkling-2-mini-decision"
   },
   {
     "source": "hn",
-    "title": "Show HN: Tab – a browser engine from scratch in Rust, with a demo to install",
+    "title": "Show HN: A modern take on the Go language",
     "points": 3,
     "comments": 0,
-    "url": "https://gettab.dev/"
+    "url": "https://github.com/telgatech/gpp"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: I stole a game interaction and brought it to macOS",
+    "points": 3,
+    "comments": 0,
+    "url": "https://peek.zone"
   }
 ]

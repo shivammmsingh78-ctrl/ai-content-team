@@ -1,0 +1,25 @@
+{
+  "idea": {
+    "title": "#06 THE SEAMLESS LOOP",
+    "angle": "WATCH TIME",
+    "format": "short-video",
+    "score": 6,
+    "fid": 6,
+    "trending": [
+      "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+      "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents"
+    ]
+  },
+  "hooks": [
+    "Loop mein hook words nahi hote — visual hi hook hai.",
+    "Ek object mid-motion mein — camera already move kar raha ho.",
+    "Kuch girta hua, jo aakhir mein wapas apni jagah aa jaata hai.",
+    "Ek transformation jo circular ho — A se B se wapas A."
+  ],
+  "best": 1,
+  "titles": [
+    "#06 THE SEAMLESS LOOP"
+  ],
+  "thumbnail": "Ek object mid-motion mein — camera already move "
+}
