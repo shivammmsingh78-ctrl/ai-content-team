@@ -1,0 +1,85 @@
+{
+  "trends": [
+    {
+      "name": "user formats",
+      "why": "boss ke diye proven reel formats"
+    }
+  ],
+  "ideas": [
+    {
+      "title": "#04 THE SCALE SHOCK",
+      "angle": "SHARE",
+      "format": "short-video",
+      "score": 10,
+      "fid": 4,
+      "trending": [
+        "Localcode, open source agentic coding on your Mac with one command",
+        "Show HN: Taskless, turn AGENTS.md and PR comments into runnable checks",
+        "Show HN: Hammerspoon 2 Beta 1 is released"
+      ]
+    },
+    {
+      "title": "#05 THE REVERSE TRANSFORMATION",
+      "angle": "HOOK",
+      "format": "short-video",
+      "score": 9,
+      "fid": 5,
+      "trending": [
+        "Localcode, open source agentic coding on your Mac with one command",
+        "Show HN: Taskless, turn AGENTS.md and PR comments into runnable checks",
+        "Show HN: Hammerspoon 2 Beta 1 is released"
+      ]
+    },
+    {
+      "title": "#06 THE SEAMLESS LOOP",
+      "angle": "WATCH TIME",
+      "format": "short-video",
+      "score": 8,
+      "fid": 6,
+      "trending": [
+        "Localcode, open source agentic coding on your Mac with one command",
+        "Show HN: Taskless, turn AGENTS.md and PR comments into runnable checks",
+        "Show HN: Hammerspoon 2 Beta 1 is released"
+      ]
+    },
+    {
+      "title": "#07 THE DEADPAN ABSURD",
+      "angle": "SHARE",
+      "format": "short-video",
+      "score": 7,
+      "fid": 7,
+      "trending": [
+        "Localcode, open source agentic coding on your Mac with one command",
+        "Show HN: Taskless, turn AGENTS.md and PR comments into runnable checks",
+        "Show HN: Hammerspoon 2 Beta 1 is released"
+      ]
+    },
+    {
+      "title": "#08 THE COMPLETE PROCESS",
+      "angle": "COMPLETION",
+      "format": "short-video",
+      "score": 6,
+      "fid": 8,
+      "trending": [
+        "Localcode, open source agentic coding on your Mac with one command",
+        "Show HN: Taskless, turn AGENTS.md and PR comments into runnable checks",
+        "Show HN: Hammerspoon 2 Beta 1 is released"
+      ]
+    },
+    {
+      "title": "#09 THE COMPLETE POV",
+      "angle": "IMMERSION",
+      "format": "short-video",
+      "score": 5,
+      "fid": 9,
+      "trending": [
+        "Localcode, open source agentic coding on your Mac with one command",
+        "Show HN: Taskless, turn AGENTS.md and PR comments into runnable checks",
+        "Show HN: Hammerspoon 2 Beta 1 is released"
+      ]
+    }
+  ],
+  "niches": [
+    "AI tools for solo creators"
+  ]
+}

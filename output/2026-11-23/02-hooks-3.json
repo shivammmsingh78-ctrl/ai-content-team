@@ -3,12 +3,12 @@
     "title": "#06 THE SEAMLESS LOOP",
     "angle": "WATCH TIME",
     "format": "short-video",
-    "score": 6,
+    "score": 8,
     "fid": 6,
     "trending": [
-      "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-      "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
-      "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents"
+      "Localcode, open source agentic coding on your Mac with one command",
+      "Show HN: Taskless, turn AGENTS.md and PR comments into runnable checks",
+      "Show HN: Hammerspoon 2 Beta 1 is released"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Kuch girta hua, jo aakhir mein wapas apni jagah aa jaata hai.",
     "Ek transformation jo circular ho — A se B se wapas A."
   ],
-  "best": 1,
+  "best": 3,
   "titles": [
     "#06 THE SEAMLESS LOOP"
   ],
-  "thumbnail": "Ek object mid-motion mein — camera already move "
+  "thumbnail": "Ek transformation jo circular ho — A se B se wap"
 }
