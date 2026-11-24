@@ -3,12 +3,12 @@
     "title": "#08 THE COMPLETE PROCESS",
     "angle": "COMPLETION",
     "format": "short-video",
-    "score": 6,
+    "score": 9,
     "fid": 8,
     "trending": [
-      "Localcode, open source agentic coding on your Mac with one command",
-      "Show HN: Taskless, turn AGENTS.md and PR comments into runnable checks",
-      "Show HN: Hammerspoon 2 Beta 1 is released"
+      "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
+      "OpenRouter users spent more $ on models from Google than OpenAI last week",
+      "Show HN: Genesis Map – Visualize your agent's changes. See where they can break"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Crisp original sound — ye ASMR layer hai.",
     "Ek continuous shot, koi cut nahi."
   ],
-  "best": 3,
+  "best": 2,
   "titles": [
     "#08 THE COMPLETE PROCESS"
   ],
-  "thumbnail": "Ek continuous shot, koi cut nahi."
+  "thumbnail": "Crisp original sound — ye ASMR layer hai."
 }

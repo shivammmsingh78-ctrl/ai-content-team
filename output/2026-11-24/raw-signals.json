@@ -1,0 +1,51 @@
+[
+  {
+    "source": "hn",
+    "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
+    "points": 14,
+    "comments": 0,
+    "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/"
+  },
+  {
+    "source": "hn",
+    "title": "OpenRouter users spent more $ on models from Google than OpenAI last week",
+    "points": 12,
+    "comments": 2,
+    "url": "https://twitter.com/openrouter/status/2124925631012209137"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Genesis Map – Visualize your agent's changes. See where they can break",
+    "points": 8,
+    "comments": 0,
+    "url": "https://github.com/GenesisAgentInfra/genesis"
+  },
+  {
+    "source": "hn",
+    "title": "Mitigeddon by Datadog",
+    "points": 4,
+    "comments": 0,
+    "url": "https://mitigeddon.ai/"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Synth Patch Hero",
+    "points": 3,
+    "comments": 2,
+    "url": "https://swarkentin.github.io/synth-patch-hero/"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: A narrated map tour of the events leading up to the Texas Revolution",
+    "points": 3,
+    "comments": 2,
+    "url": "https://whistlestop.guide/features/texas-revolution"
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: One hour of AlphaZero-style Othello training on only one MacBook Air",
+    "points": 3,
+    "comments": 1,
+    "url": "https://github.com/natsu0529/mac-alpha-zero"
+  }
+]
