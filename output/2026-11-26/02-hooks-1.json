@@ -3,12 +3,12 @@
     "title": "#01 THE RECEIPT DROP",
     "angle": "SAVE",
     "format": "short-video",
-    "score": 6,
+    "score": 10,
     "fid": 1,
     "trending": [
       "Launch HN: Versine (YC F26) – MCP to send and receive money",
-      "T3code Backslash",
-      "17M lines of Lean, one alleged fatal flaw: challenge to Riemann Hypothesis proof"
+      "Show HN: Keeping faces and features consistent across 24 AI-driven comic pages",
+      "Show HN: KradleBench – Multi-agent AI evals in Minecraft"
     ]
   },
   "hooks": [
@@ -17,9 +17,9 @@
     "Main aapko wo dikhata hoon jo koi course bechne wala nahi dikhata — apna asli data.",
     "Isme se 3 cheezein kaam aayi. Baaki 11 waste thi. Dono dikha raha hoon."
   ],
-  "best": 2,
+  "best": 0,
   "titles": [
     "#01 THE RECEIPT DROP"
   ],
-  "thumbnail": "Main aapko wo dikhata hoon jo koi course bechne "
+  "thumbnail": "Ye mera bank statement hai. Ab main aapko batata"
 }
